@@ -1,0 +1,40 @@
+Start,End,Text,Speaker
+1.588,2.111, Come in.,
+5.394,5.596, Miss X?,SPEAKER_01
+6.061,6.303, Yeah.,SPEAKER_01
+8.586,10.0," Okay, so why are you here today?",SPEAKER_01
+10.04,12.171," Oh, I have constant cough and I feel out of breath.",SPEAKER_00
+14.0,17.98," Okay, is it dry cough or with mucus?",SPEAKER_01
+19.065,21.96," It's mainly dry cough, but some mornings there's mucus.",SPEAKER_00
+22.687,24.0," Okay, and the shortness of breath?",SPEAKER_01
+25.427,27.678, It's mainly when I exert myself.,SPEAKER_00
+29.188,30.98," Okay, any previous health conditions?",SPEAKER_00
+31.764,35.0," High blood pressure, but it's already controlled through the diet.",SPEAKER_00
+35.0,36.354," Okay, any medications?",SPEAKER_00
+37.02,37.061, No.,SPEAKER_00
+38.0,39.313, Okay.,SPEAKER_00
+44.071,44.374, Yes?,SPEAKER_01
+46.767,50.0, Dr. Kruger's lab results are in for another patient.,SPEAKER_01
+52.231,53.759," Okay, I'll check that soon.",SPEAKER_01
+53.759,54.0,Thank you.,SPEAKER_01
+54.0,54.505, Hello?,SPEAKER_01
+57.434,58.0, Sorry for the interruption.,SPEAKER_01
+58.101,58.465, It's okay.,SPEAKER_01
+60.342,62.98," Okay, so do you have any allergies?",SPEAKER_01
+63.343,64.515," Yeah, yeah, to shellfish.",SPEAKER_00
+65.121,66.737," Okay, family health conditions?",SPEAKER_00
+67.544,69.738," My mom, she had migraines in her twenties.",SPEAKER_00
+70.604,72.94," My dad, he has a high blood pressure.",SPEAKER_00
+73.984,77.94," Okay, do you have any recent exposure to travel?",SPEAKER_01
+78.584,80.96," Yeah, I attended a large wedding two weeks ago.",SPEAKER_00
+81.768,82.939," Okay, do you smoke?",SPEAKER_01
+83.483,85.356," Yeah, half a pack of cigarettes, daily.",SPEAKER_00
+86.828,87.677, Any alcohol to use?,SPEAKER_00
+88.0,88.929," No, no, I don't drink.",SPEAKER_00
+93.121,94.475, Sorry for that.,SPEAKER_01
+95.263,95.707," No, it's okay.",SPEAKER_00
+97.141,100.0," So based on what you said, I would like to proceed with some testing.",SPEAKER_01
+100.844,103.799," After that, please rest and stay hydrated.",SPEAKER_01
+104.404,105.556," Okay, sounds good.",SPEAKER_00
+105.556,106.0,"Thank you, doctor.",SPEAKER_00
+106.141,107.388, Thank you.,SPEAKER_01

@@ -1,0 +1,20 @@
+Doctor: Miss X, why are you here today?
+Patient: I have a constant cough and feel out of breath.
+Doctor: Is it a dry cough or with mucus?
+Patient: Mainly dry, but some mornings there's mucus.
+Doctor: How sharp is your breathlessness?
+Patient: It mainly happens when I exert myself.
+Doctor: Any previous health conditions?
+Patient: I have high blood pressure, but it's controlled through my diet.
+Doctor: Any medications?
+Patient: No.
+Doctor: Any allergies?
+Patient: Yes, shellfish.
+Doctor: Any family health conditions?
+Patient: My mom had migraines in her twenties and my dad has high blood pressure.
+Doctor: Any recent travel exposure?
+Patient: I attended a large wedding two weeks ago.
+Doctor: Do you smoke or drink alcohol?
+Patient: I smoke half a pack of cigarettes daily, but I don't drink.
+Doctor: Based on your symptoms, I would like to proceed with testing. After that, please rest and stay hydrated.
+Patient: Okay, sounds good. Thank you, doctor.

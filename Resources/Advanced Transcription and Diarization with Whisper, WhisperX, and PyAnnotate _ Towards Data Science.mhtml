@@ -1,0 +1,1360 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://webcache.googleusercontent.com/search?q=cache:https://towardsdatascience.com/unlock-the-power-of-audio-data-advanced-transcription-and-diarization-with-whisper-whisperx-and-ed9424307281&sca_esv=2dd994e7906e3cca&strip=1&vwsrc=0
+Subject: Advanced Transcription and Diarization with Whisper, WhisperX, and PyAnnotate | Towards Data Science
+Date: Mon, 6 Nov 2023 20:54:08 -0500
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--p8a8tiA2Rx9kZeSeJh8hI6ANHFB16wuX0Dl9WDJblq----"
+
+
+------MultipartBoundary--p8a8tiA2Rx9kZeSeJh8hI6ANHFB16wuX0Dl9WDJblq----
+Content-Type: text/html
+Content-ID: <frame-4ED7D26CC57DE76D1E704280F0D4BB20@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://webcache.googleusercontent.com/search?q=cache:https://towardsdatascience.com/unlock-the-power-of-audio-data-advanced-transcription-and-diarization-with-whisper-whisperx-and-ed9424307281&sca_esv=2dd994e7906e3cca&strip=1&vwsrc=0
+
+<html lang=3D"en"><head><meta http-equiv=3D"Content-Type" content=3D"text/h=
+tml; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D"ci=
+d:css-956f1b35-abb3-4776-8da4-b2682899182e@mhtml.blink" /><base href=3D"htt=
+ps://towardsdatascience.com/unlock-the-power-of-audio-data-advanced-transcr=
+iption-and-diarization-with-whisper-whisperx-and-ed9424307281"></head><body=
+ data-new-gr-c-s-check-loaded=3D"14.1136.0" data-gr-ext-installed=3D""><div=
+ id=3D"bN015htcoyT__google-cache-hdr"><div><span>This is Google's cache of =
+<a href=3D"https://towardsdatascience.com/unlock-the-power-of-audio-data-ad=
+vanced-transcription-and-diarization-with-whisper-whisperx-and-ed9424307281=
+">https://towardsdatascience.com/unlock-the-power-of-audio-data-advanced-tr=
+anscription-and-diarization-with-whisper-whisperx-and-ed9424307281</a>.</sp=
+an>&nbsp;<span>It is a snapshot of the page as it appeared on Nov 5, 2023 1=
+5:33:06 GMT.</span>&nbsp;<span>The <a href=3D"https://towardsdatascience.co=
+m/unlock-the-power-of-audio-data-advanced-transcription-and-diarization-wit=
+h-whisper-whisperx-and-ed9424307281">current page</a> could have changed in=
+ the meantime.</span>&nbsp;<a href=3D"http://support.google.com/websearch/b=
+in/answer.py?hl=3Den&amp;p=3Dcached&amp;answer=3D1687222"><span>Learn more<=
+/span>.</a></div><div><span style=3D"display:inline-block;margin-top:8px;ma=
+rgin-right:104px;white-space:nowrap"><span style=3D"margin-right:28px"><a h=
+ref=3D"http://webcache.googleusercontent.com/search?q=3Dcache:https://towar=
+dsdatascience.com/unlock-the-power-of-audio-data-advanced-transcription-and=
+-diarization-with-whisper-whisperx-and-ed9424307281&amp;sca_esv=3D2dd994e79=
+06e3cca&amp;strip=3D0&amp;vwsrc=3D0"><span>Full version</span></a></span><s=
+pan style=3D"margin-right:28px"><span style=3D"font-weight:bold">Text-only =
+version</span></span><span style=3D"margin-right:28px"><a href=3D"http://we=
+bcache.googleusercontent.com/search?q=3Dcache:https://towardsdatascience.co=
+m/unlock-the-power-of-audio-data-advanced-transcription-and-diarization-wit=
+h-whisper-whisperx-and-ed9424307281&amp;sca_esv=3D2dd994e7906e3cca&amp;stri=
+p=3D0&amp;vwsrc=3D1"><span>View source</span></a></span></span></div><span =
+style=3D"display:inline-block;margin-top:8px;color:var(--XB5uFb)"><span>Tip=
+: To quickly find your search term on this page, press <b>Ctrl+F</b> or <b>=
+=E2=8C=98-F</b> (Mac) and use the find bar.</span></span></div><div style=
+=3D"position:relative; margin:8px;"><title data-rh=3D"true">Advanced Transc=
+ription and Diarization with Whisper, WhisperX, and PyAnnotate | Towards Da=
+ta Science</title><meta data-rh=3D"true" name=3D"viewport" content=3D"width=
+=3Ddevice-width,minimum-scale=3D1,initial-scale=3D1,maximum-scale=3D1"><met=
+a data-rh=3D"true" name=3D"theme-color" content=3D"#000000"><meta data-rh=
+=3D"true" name=3D"twitter:app:name:iphone" content=3D"Medium"><meta data-rh=
+=3D"true" name=3D"twitter:app:id:iphone" content=3D"828256236"><meta data-r=
+h=3D"true" property=3D"al:ios:app_name" content=3D"Medium"><meta data-rh=3D=
+"true" property=3D"al:ios:app_store_id" content=3D"828256236"><meta data-rh=
+=3D"true" property=3D"al:android:package" content=3D"com.medium.reader"><me=
+ta data-rh=3D"true" property=3D"fb:app_id" content=3D"542599432471018"><met=
+a data-rh=3D"true" property=3D"og:site_name" content=3D"Medium"><meta data-=
+rh=3D"true" property=3D"og:type" content=3D"article"><meta data-rh=3D"true"=
+ property=3D"article:published_time" content=3D"2023-04-17T20:01:16.892Z"><=
+meta data-rh=3D"true" name=3D"title" content=3D"Advanced Transcription and =
+Diarization with Whisper, WhisperX, and PyAnnotate | Towards Data Science">=
+<meta data-rh=3D"true" property=3D"og:title" content=3D"Unlock the Power of=
+ Audio Data: Advanced Transcription and Diarization with Whisper, WhisperX,=
+ and=E2=80=A6"><meta data-rh=3D"true" property=3D"al:android:url" content=
+=3D"medium://p/ed9424307281"><meta data-rh=3D"true" property=3D"al:ios:url"=
+ content=3D"medium://p/ed9424307281"><meta data-rh=3D"true" property=3D"al:=
+android:app_name" content=3D"Medium"><meta data-rh=3D"true" name=3D"descrip=
+tion" content=3D"Streamline Audio Analysis with State-of-the-Art Speech Rec=
+ognition and Speaker Attribution Technologies"><meta data-rh=3D"true" prope=
+rty=3D"og:description" content=3D"Streamline Audio Analysis with State-of-t=
+he-Art Speech Recognition and Speaker Attribution Technologies"><meta data-=
+rh=3D"true" property=3D"og:url" content=3D"https://towardsdatascience.com/u=
+nlock-the-power-of-audio-data-advanced-transcription-and-diarization-with-w=
+hisper-whisperx-and-ed9424307281"><meta data-rh=3D"true" property=3D"al:web=
+:url" content=3D"https://towardsdatascience.com/unlock-the-power-of-audio-d=
+ata-advanced-transcription-and-diarization-with-whisper-whisperx-and-ed9424=
+307281"><meta data-rh=3D"true" property=3D"og:image" content=3D"https://mir=
+o.medium.com/v2/resize:fit:1000/0*TqIGi2Bvy0o8IIxk"><meta data-rh=3D"true" =
+property=3D"article:author" content=3D"https://medium.com/@luisroque"><meta=
+ data-rh=3D"true" name=3D"author" content=3D"Lu=C3=ADs Roque"><meta data-rh=
+=3D"true" name=3D"robots" content=3D"index,follow,max-image-preview:large">=
+<meta data-rh=3D"true" name=3D"referrer" content=3D"unsafe-url"><meta data-=
+rh=3D"true" property=3D"twitter:title" content=3D"Unlock the Power of Audio=
+ Data: Advanced Transcription and Diarization with Whisper, WhisperX, and=
+=E2=80=A6"><meta data-rh=3D"true" name=3D"twitter:site" content=3D"@TDataSc=
+ience"><meta data-rh=3D"true" name=3D"twitter:app:url:iphone" content=3D"me=
+dium://p/ed9424307281"><meta data-rh=3D"true" property=3D"twitter:descripti=
+on" content=3D"Streamline Audio Analysis with State-of-the-Art Speech Recog=
+nition and Speaker Attribution Technologies"><meta data-rh=3D"true" name=3D=
+"twitter:image:src" content=3D"https://miro.medium.com/v2/resize:fit:1000/0=
+*TqIGi2Bvy0o8IIxk"><meta data-rh=3D"true" name=3D"twitter:card" content=3D"=
+summary_large_image"><meta data-rh=3D"true" name=3D"twitter:label1" content=
+=3D"Reading time"><meta data-rh=3D"true" name=3D"twitter:data1" content=3D"=
+9 min read"><meta data-rh=3D"true" name=3D"twitter:tile:template:testing" c=
+ontent=3D"2"><meta data-rh=3D"true" name=3D"twitter:tile:image" content=3D"=
+https://miro.medium.com/v2/resize:fit:1000/0*TqIGi2Bvy0o8IIxk"><meta data-r=
+h=3D"true" name=3D"twitter:tile:info1:icon" content=3D"Person"><meta data-r=
+h=3D"true" name=3D"twitter:tile:info1:text" content=3D"Lu=C3=ADs Roque"><me=
+ta data-rh=3D"true" name=3D"twitter:tile:info2:icon" content=3D"Calendar"><=
+meta data-rh=3D"true" name=3D"twitter:tile:info2:text" content=3D"Apr 17, 2=
+023"><meta data-rh=3D"true" name=3D"twitter:cta" content=3D"Read on Medium"=
+><div id=3D"root"><div class=3D"a b c"><div class=3D"d e f g h i j k"></div=
+><div class=3D"l c"><div class=3D"l m n o c"><div class=3D"p q r s t u v w =
+x i d y z"><a class=3D"dt ag du be ak b am an ao ap aq ar as at s u w i d q=
+ dv z" href=3D"https://rsci.app.link/?%24canonical_url=3Dhttps%3A%2F%2Fmedi=
+um.com%2Fp%2Fed9424307281&amp;%7Efeature=3DLoOpenInAppButton&amp;%7Echannel=
+=3DShowPostUnderCollection" rel=3D"noopener follow">Open in app</a><div cla=
+ss=3D"ab q"><p class=3D"be b dw dx dy dz ea eb ec ed ee ef dt"><a class=3D"=
+be b dw dx eg dy dz eh ea eb ei ec ed ej ee ef ek el em eo ep eq er es et e=
+u ev ew ex ey ez fa bl fb fc" data-testid=3D"headerSignUpButton" href=3D"ht=
+tps://medium.com/m/signin?operation=3Dregister&amp;redirect=3Dhttps%3A%2F%2=
+Ftowardsdatascience.com%2Funlock-the-power-of-audio-data-advanced-transcrip=
+tion-and-diarization-with-whisper-whisperx-and-ed9424307281" rel=3D"noopene=
+r follow">Sign up</a></p><div class=3D"aw l"><p class=3D"be b dw dx dy dz e=
+a eb ec ed ee ef dt"><a class=3D"af ag ah ai aj ak al am an ao ap aq ar as =
+at" data-testid=3D"headerSignInButton" href=3D"https://medium.com/m/signin?=
+operation=3Dlogin&amp;redirect=3Dhttps%3A%2F%2Ftowardsdatascience.com%2Funl=
+ock-the-power-of-audio-data-advanced-transcription-and-diarization-with-whi=
+sper-whisperx-and-ed9424307281" rel=3D"noopener follow">Sign In</a></p></di=
+v></div></div><div class=3D"p q r ab ac"><div class=3D"ab q ae"><a class=3D=
+"af ag ah ai aj ak al am an ao ap aq ar as at ab" aria-label=3D"Homepage" d=
+ata-testid=3D"headerMediumLogo" href=3D"https://medium.com/" rel=3D"noopene=
+r follow"></a><div class=3D"aw h"><div class=3D"ab ax ay az ba q bb bc"><di=
+v class=3D"bl" aria-hidden=3D"false" aria-describedby=3D"searchResults" ari=
+a-labelledby=3D"searchResults"></div><div class=3D"bm bn ab"></div></div></=
+div></div><div class=3D"h k w fd fe"><div class=3D"ff ab"><a class=3D"af ag=
+ ah ai aj ak al am an ao ap aq ar as at" data-testid=3D"headerWriteButton" =
+href=3D"https://medium.com/m/signin?operation=3Dregister&amp;redirect=3Dhtt=
+ps%3A%2F%2Fmedium.com%2Fnew-story" rel=3D"noopener follow"><div class=3D"be=
+ b bf z dt fg fh ab q fi fj"><div class=3D"ds l">Write</div></div></a></div=
+></div><div class=3D"k j i d"><div class=3D"ff ab"><a class=3D"af ag ah ai =
+aj ak al am an ao ap aq ar as at" data-testid=3D"headerSearchButton" href=
+=3D"https://medium.com/search" rel=3D"noopener follow"><div class=3D"be b b=
+f z dt fg fh ab q fi fj"></div></a></div></div><div class=3D"ff h k j"><div=
+ class=3D"ab q"><p class=3D"be b dw dx dy dz ea eb ec ed ee ef dt"><a class=
+=3D"be b dw dx eg dy dz eh ea eb ei ec ed ej ee ef ek el em eo ep eq er es =
+et eu ev ew ex ey ez fa bl fb fc" data-testid=3D"headerSignUpButton" href=
+=3D"https://medium.com/m/signin?operation=3Dregister&amp;redirect=3Dhttps%3=
+A%2F%2Ftowardsdatascience.com%2Funlock-the-power-of-audio-data-advanced-tra=
+nscription-and-diarization-with-whisper-whisperx-and-ed9424307281" rel=3D"n=
+oopener follow">Sign up</a></p><div class=3D"aw l"><p class=3D"be b dw dx d=
+y dz ea eb ec ed ee ef dt"><a class=3D"af ag ah ai aj ak al am an ao ap aq =
+ar as at" data-testid=3D"headerSignInButton" href=3D"https://medium.com/m/s=
+ignin?operation=3Dlogin&amp;redirect=3Dhttps%3A%2F%2Ftowardsdatascience.com=
+%2Funlock-the-power-of-audio-data-advanced-transcription-and-diarization-wi=
+th-whisper-whisperx-and-ed9424307281" rel=3D"noopener follow">Sign In</a></=
+p></div></div></div><div class=3D"l" aria-hidden=3D"false"><div class=3D"l =
+fg"><div class=3D"fo bx l by bz fp n ax fq"></div></div></div></div></div><=
+div class=3D"l"><div class=3D"fr fs ft fu fv l"><div class=3D"ab ca"><div c=
+lass=3D"ch bg fw fx fy fz"></div></div><div class=3D"l"><div class=3D"l"><d=
+iv><div class=3D"fp gf gg gh gi gj"></div><div><div class=3D"speechify-igno=
+re l"><div class=3D"gk gl gm gn go l"></div><div class=3D"ab ca"><div class=
+=3D"cp ds gp bg gq ch l"></div></div><div class=3D"ab ca"><div class=3D"ch =
+bg fw fx fy fz"><div class=3D"ck l"><div class=3D"gt ab"><div class=3D"bl" =
+aria-hidden=3D"false"><div class=3D"h k j i d"><div><div class=3D"bl" aria-=
+hidden=3D"false"></div></div></div><div class=3D"s u w fd fe q"><p class=3D=
+"be b bf z dt">Member-only story</p></div></div></div></div></div></div></d=
+iv></div><div class=3D"gu gv gw gx gy"><div class=3D"ab ca"><div class=3D"c=
+h bg fw fx fy fz"><div><h1 id=3D"e355" class=3D"pw-post-title gz ha hb be h=
+c hd he hf hg hh hi hj hk hl hm hn ho hp hq hr hs ht bj" data-testid=3D"sto=
+ryTitle">Unlock the Power of Audio Data: Advanced Transcription and Diariza=
+tion with Whisper, WhisperX, and PyAnnotate</h1></div><div><h2 id=3D"3029" =
+class=3D"pw-subtitle-paragraph hu ha hb be b hv hw hx hy hz ia ib ic id ie =
+if ig ih ii ij cp dt">Streamline Audio Analysis with State-of-the-Art Speec=
+h Recognition and Speaker Attribution Technologies</h2><div class=3D"ik il =
+im in io"><div class=3D"speechify-ignore ab co"><div class=3D"speechify-ign=
+ore bg l"><div class=3D"ip iq ir is it ab"><div><div class=3D"ab iu"><a hre=
+f=3D"https://medium.com/@luisroque" rel=3D"noopener follow"><div><div class=
+=3D"bl" aria-hidden=3D"false"><div class=3D"l iv iw bx ix iy"><div class=3D=
+"l fg">Lu=C3=ADs Roque<div class=3D"iz bx l dc dd fp n ja fq"></div></div><=
+/div></div></div></a><a href=3D"https://towardsdatascience.com/" rel=3D"noo=
+pener follow"><div class=3D"jb ab fg"><div><div class=3D"bl" aria-hidden=3D=
+"false"><div class=3D"l jc jd bx ix je"><div class=3D"l fg">Towards Data Sc=
+ience<div class=3D"iz bx l bq jf fp n ja fq"></div></div></div></div></div>=
+</div></a></div></div><div class=3D"bm bg l"><div class=3D"ab"><div style=
+=3D"flex:1"><div class=3D"jg ab q"><div class=3D"ab q jh"><div class=3D"ab =
+q"><div><div class=3D"bl" aria-hidden=3D"false"><p class=3D"be b ji jj bj">=
+<a class=3D"af ag ah ai aj ak al am an ao ap aq ar jk" data-testid=3D"autho=
+rName" href=3D"https://medium.com/@luisroque" rel=3D"noopener follow">Lu=C3=
+=ADs Roque</a></p></div></div></div>=C2=B7<p class=3D"be b ji jj dt"><a cla=
+ss=3D"jn jo ah ai aj ak al am an ao ap aq ar eu jp jq" href=3D"https://medi=
+um.com/m/signin?actionUrl=3Dhttps%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser=
+%2F2195f049db86&amp;operation=3Dregister&amp;redirect=3Dhttps%3A%2F%2Ftowar=
+dsdatascience.com%2Funlock-the-power-of-audio-data-advanced-transcription-a=
+nd-diarization-with-whisper-whisperx-and-ed9424307281&amp;user=3DLu%C3%ADs+=
+Roque&amp;userId=3D2195f049db86" rel=3D"noopener follow">Follow</a></p></di=
+v></div></div></div><div class=3D"l jr"><div class=3D"ab cm js jt ju"><div =
+class=3D"jv jw ab"><div class=3D"be b bf z dt ab jx">Published in<div><div =
+class=3D"bl" aria-hidden=3D"false"><a class=3D"af ag ah ai aj ak al am an a=
+o ap aq ar jk ab q" data-testid=3D"publicationName" href=3D"https://towards=
+datascience.com/" rel=3D"noopener follow"><p class=3D"be b bf z jy jz ka kb=
+ kc kd ke kf bj">Towards Data Science</p></a></div></div></div><div class=
+=3D"h k">=C2=B7</div></div><div class=3D"ab ae">9 min read<div class=3D"kg =
+kh l" aria-hidden=3D"true">=C2=B7</div>Apr 17</div></div></div></div></div>=
+<div class=3D"ab co ki kj kk kl km kn ko kp kq kr ks kt ku kv kw kx"><div c=
+lass=3D"h k w fd fe q"><div class=3D"ln l"><div class=3D"ab q lo"><div clas=
+s=3D"pw-multi-vote-icon fg gr lp lq lr"><a class=3D"af ag ah ai aj ak al am=
+ an ao ap aq ar as at" data-testid=3D"headerClapButton" href=3D"https://med=
+ium.com/m/signin?actionUrl=3Dhttps%3A%2F%2Fmedium.com%2F_%2Fvote%2Ftowards-=
+data-science%2Fed9424307281&amp;operation=3Dregister&amp;redirect=3Dhttps%3=
+A%2F%2Ftowardsdatascience.com%2Funlock-the-power-of-audio-data-advanced-tra=
+nscription-and-diarization-with-whisper-whisperx-and-ed9424307281&amp;user=
+=3DLu%C3%ADs+Roque&amp;userId=3D2195f049db86" rel=3D"noopener follow"><div>=
+<div class=3D"bl" aria-hidden=3D"false"><div class=3D"ls ao lt lu lv lw am =
+lx ly lz lr"></div></div></div></a></div><div class=3D"pw-multi-vote-count =
+l ma mb mc md me mf mg"><p class=3D"be b du z dt">--</p></div></div></div><=
+div><div class=3D"bl" aria-hidden=3D"false"><p class=3D"be b du z dt">8</p>=
+</div></div></div><div class=3D"ab q ky kz la lb lc ld le lf lg lh li lj lk=
+ ll lm"><div class=3D"mn k j i d"></div><div class=3D"h k"><div><div class=
+=3D"bl" aria-hidden=3D"false"><a class=3D"af ag ah ai aj ak al am an ao ap =
+aq ar as at" data-testid=3D"headerBookmarkButton" href=3D"https://medium.co=
+m/m/signin?actionUrl=3Dhttps%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fed9424=
+307281&amp;operation=3Dregister&amp;redirect=3Dhttps%3A%2F%2Ftowardsdatasci=
+ence.com%2Funlock-the-power-of-audio-data-advanced-transcription-and-diariz=
+ation-with-whisper-whisperx-and-ed9424307281" rel=3D"noopener follow"></a><=
+/div></div></div><div class=3D"fa tt cm"><div class=3D"l ae"><div class=3D"=
+ab ca"><div class=3D"tu tv tw tx ty pu ch bg"><div class=3D"ab"><div class=
+=3D"bl bg" aria-hidden=3D"false"><div><div class=3D"bl" aria-hidden=3D"fals=
+e"><div class=3D"j i d"><p class=3D"be b bf z dt">Listen</p></div></div></d=
+iv></div></div></div></div></div></div><div class=3D"bl" aria-hidden=3D"fal=
+se" aria-describedby=3D"postFooterSocialMenu" aria-labelledby=3D"postFooter=
+SocialMenu"><div><div class=3D"bl" aria-hidden=3D"false"><div class=3D"j i =
+d"><p class=3D"be b bf z dt">Share</p></div></div></div></div></div></div><=
+/div></div></div></div><h1 id=3D"5ddc" class=3D"nk nl hb be nm nn no hx np =
+nq nr ia ns nt nu nv nw nx ny nz oa ob oc od oe of bj">Introduction</h1><p =
+id=3D"7839" class=3D"pw-post-body-paragraph og oh hb oi b hv oj ok ol hy om=
+ on oo op oq or os ot ou ov ow ox oy oz pa pb gu bj">In our fast-paced worl=
+d, we generate enormous amounts of audio data. Think about your favorite po=
+dcast or conference calls at work. The data is already rich in its raw form=
+; we, as humans, can understand it. Even so, we could go further and, for e=
+xample, convert it into a written format to search for it later.</p><p id=
+=3D"986c" class=3D"pw-post-body-paragraph og oh hb oi b hv pc ok ol hy pd o=
+n oo op pe or os ot pf ov ow ox pg oz pa pb gu bj">To better understand the=
+ task at hand, we are introducing two concepts. The first is transcription,=
+ simply converting spoken language into text. A second one that we explore =
+in this article is diarization. Diarization helps us give additional struct=
+ure to the unstructured content. In this case, we are interested in attribu=
+ting specific speech segments to different speakers.</p><p id=3D"cf84" clas=
+s=3D"pw-post-body-paragraph og oh hb oi b hv pc ok ol hy pd on oo op pe or =
+os ot pf ov ow ox pg oz pa pb gu bj">With the above context, we address bot=
+h tasks by using different tools. We use Whisper, a general-purpose speech =
+recognition model developed by OpenAI. It was training on a diverse dataset=
+ of audio samples, and the researchers developed it to perform multiple tas=
+ks. Secondly, we use PyAnnotate, a library for speaker diarization. Finally=
+, we use WhisperX, a research project that helps combine the two while solv=
+ing some limitations of Whisper.</p><div role=3D"button" tabindex=3D"0" cla=
+ss=3D"pq pr fg ps bg pt"><div class=3D"ph pi pj"></div></div>Figure 1: Spea=
+k to the machines (<a class=3D"af pz" href=3D"https://unsplash.com/photos/6=
+dDHofabCQ8" rel=3D"noopener ugc nofollow" target=3D"_blank">source</a>).<p =
+id=3D"c391" class=3D"pw-post-body-paragraph og oh hb oi b hv pc ok ol hy pd=
+ on oo op pe or os ot pf ov ow ox pg oz pa pb gu bj">This article belongs t=
+o =E2=80=9CLarge Language Models Chronicles: Navigating the NLP Frontier=E2=
+=80=9D, a new weekly series of articles that will explore how to leverage t=
+he power of large models for various NLP tasks. By diving into these cuttin=
+g-edge technologies, we aim to empower developers, researchers, and enthusi=
+asts to harness the potential of NLP and unlock new possibilities.</p><p id=
+=3D"82f2" class=3D"pw-post-body-paragraph og oh hb oi b hv pc ok ol hy pd o=
+n oo op pe or os ot pf ov ow ox pg oz pa pb gu bj">Articles published so fa=
+r:</p><ol class=3D""><li id=3D"7be3" class=3D"og oh hb oi b hv pc ok ol hy =
+pd on oo op qa or os ot qb ov ow ox qc oz pa pb qd qe qf bj"><a class=3D"af=
+ pz" href=3D"https://medium.com/towards-data-science/summarizing-the-latest=
+-spotify-releases-with-chatgpt-553245a6df88" rel=3D"noopener">Summarizing t=
+he latest Spotify releases with ChatGPT</a></li><li id=3D"763f" class=3D"og=
+ oh hb oi b hv qg ok ol hy qh on oo op qi or os ot qj ov ow ox qk oz pa pb =
+qd qe qf bj"><a class=3D"af pz" href=3D"https://medium.com/towards-data-sci=
+ence/master-semantic-search-at-scale-index-millions-of-documents-with-light=
+ning-fast-inference-times-fa395e4efd88" rel=3D"noopener">Master Semantic Se=
+arch at Scale: Index Millions of Documents with Lightning-Fast Inference Ti=
+mes using FAISS and Sentence Transformers</a></li></ol><p id=3D"74f9" class=
+=3D"pw-post-body-paragraph og oh hb oi b hv pc ok ol hy pd on oo op pe or o=
+s ot pf ov ow ox pg oz pa pb gu bj">As always, the code is available on my =
+<a class=3D"af pz" href=3D"https://github.com/luisroque/large_laguage_model=
+s" rel=3D"noopener ugc nofollow" target=3D"_blank">Github</a>.</p><h1 id=3D=
+"33db" class=3D"nk nl hb be nm nn no hx np nq nr ia ns nt nu nv nw nx ny nz=
+ oa ob oc od oe of bj">Whisper: A General-Purpose Speech Recognition Model<=
+/h1><p id=3D"e9c9" class=3D"pw-post-body-paragraph og oh hb oi b hv oj ok o=
+l hy om on oo op oq or os ot ou ov ow ox oy oz pa pb gu bj">Whisper is a ge=
+neral-purpose speech recognition model performing very well in various spee=
+ch-processing tasks. It is reasonably robust at multilingual speech recogni=
+tion, speech translation, spoken language identification, and voice activit=
+y detection.</p><p id=3D"0170" class=3D"pw-post-body-paragraph og oh hb oi =
+b hv pc ok ol hy pd on oo op pe or os ot pf ov ow ox pg oz pa pb gu bj">At =
+the core of Whisper lies a Transformer sequence-to-sequence model. The mode=
+l jointly represents various speech-processing tasks as a sequence of token=
+s to be predicted by the decoder. The model can replace multiple stages of =
+a traditional speech-processing pipeline by employing special tokens as tas=
+k specifiers or classification targets. We can think of it as a meta-model =
+for speech-processing tasks.</p><p id=3D"c826" class=3D"pw-post-body-paragr=
+aph og oh hb oi b hv pc ok ol hy pd on oo op pe or os ot pf ov ow ox pg oz =
+pa pb gu bj">Whisper comes in five model sizes, targeting edge devices or l=
+arge computing machines. It allows users to select the appropriate model fo=
+r their use case and the capacity of their systems. Note that the English-o=
+nly versions of some models perform better for English use cases.</p><h1 id=
+=3D"6ccc" class=3D"nk nl hb be nm nn no hx np nq nr ia ns nt nu nv nw nx ny=
+ nz oa ob oc od oe of bj">PyAnnotate: Speaker Diarization Library</h1><p id=
+=3D"5596" class=3D"pw-post-body-paragraph og oh hb oi b hv oj ok ol hy om o=
+n oo op oq or os ot ou ov ow ox oy oz pa pb gu bj">Speaker diarization is t=
+he process of identifying and segmenting speech by different speakers. The =
+task can be beneficial, for example, when we are analyzing data from a call=
+ center, and we want to separate the customer and the agent=E2=80=99s voice=
+s. Companies can then use it to improve customer service and ensure company=
+ policy compliance.</p><p id=3D"622d" class=3D"pw-post-body-paragraph og oh=
+ hb oi b hv pc ok ol hy pd on oo op pe or os ot pf ov ow ox pg oz pa pb gu =
+bj">PyAnnotate is a Python library specifically designed to support this ta=
+sk. The process is relatively simple. It preprocesses the data, allowing us=
+ to extract features from the raw audio file. Next, it produces clusters of=
+ similar speech segments based on the extracted features. Finally, it attri=
+butes the generated clusters to individual speakers.</p><h1 id=3D"9903" cla=
+ss=3D"nk nl hb be nm nn no hx np nq nr ia ns nt nu nv nw nx ny nz oa ob oc =
+od oe of bj">WhisperX: Long-Form Audio Transcription with Voice Activity De=
+tection and Forced Phoneme Alignment</h1><p id=3D"3c70" class=3D"pw-post-bo=
+dy-paragraph og oh hb oi b hv oj ok ol hy om on oo op oq or os ot ou ov ow =
+ox oy oz pa pb gu bj">As we saw in the previous sections, Whisper is a larg=
+e-scale and weakly supervised model trained to perform several tasks in the=
+ speech-processing field. While it performs well in different domains and e=
+ven in different languages it falls short when it comes to long audio trans=
+cription. The limitation comes from the fact that the training procedure us=
+es a sliding window approach, which can result in drifting or even hallucin=
+ation. In addition, it has severe limitations when it comes to aligning the=
+ transcription with the audio timestamps. This is particularly important to=
+ us when performing the speaker diarization.</p><p id=3D"1bce" class=3D"pw-=
+post-body-paragraph og oh hb oi b hv pc ok ol hy pd on oo op pe or os ot pf=
+ ov ow ox pg oz pa pb gu bj">To tackle these limitations, an Oxford researc=
+h group is actively developing WhisperX. The Arxiv pre-print paper was publ=
+ished last month. It uses Voice Activity Detection (VAD), which detects the=
+ presence or absence of human speech and pre-segments the input audio file.=
+ It then cuts and merges these segments into windows of approximately 30 se=
+conds by defining the boundaries on the regions where there is a low probab=
+ility of speech (yield from the voice model). This step has an additional a=
+dvantage: it allows using batch transcriptions with Whisper. It increases p=
+erformance while reducing the probability of drifting or hallucination we d=
+iscussed above. The final step is called forced alignment. WhisperX uses a =
+phoneme model to align the transcription with the audio. Phoneme-based Auto=
+matic Speech Recognition (ASR) recognizes the smallest unit of speech, e.g.=
+, the element =E2=80=9Cg=E2=80=9D in =E2=80=9Cbig.=E2=80=9D This post-proce=
+ssing operation aligns the generated transcription with the audio timestamp=
+s at the word level.</p><h1 id=3D"64a2" class=3D"nk nl hb be nm nn no hx np=
+ nq nr ia ns nt nu nv nw nx ny nz oa ob oc od oe of bj">Integrating Whisper=
+X, Whisper, and PyAnnotate</h1><p id=3D"b53c" class=3D"pw-post-body-paragra=
+ph og oh hb oi b hv oj ok ol hy om on oo op oq or os ot ou ov ow ox oy oz p=
+a pb gu bj">In this section, we integrate WhisperX, Whisper, and PyAnnotate=
+ to create our own ASR system. We designed our approach to handle long-form=
+ audio transcriptions while being able to segment the speech and attribute =
+a specific speaker to each segment. In addition, it reduces the probability=
+ of hallucination, increases inference efficiency, and ensures proper align=
+ment between the transcription and the audio. Let=E2=80=99s build a pipelin=
+e to perform the different tasks.</p><p id=3D"929a" class=3D"pw-post-body-p=
+aragraph og oh hb oi b hv pc ok ol hy pd on oo op pe or os ot pf ov ow ox p=
+g oz pa pb gu bj">We start with transcription, converting the speech recogn=
+ized from the audio file into written text. The transcribefunction loads a =
+Whisper model specified by model_name and transcribes the audio file. It th=
+en returns a dictionary containing the transcript segments and language cod=
+e. OpenAI designed Whisper also to perform language detection, being a mult=
+ilanguage model.</p><pre class=3D"pk pl pm pn po qp qo qq bo qr ba bj">def =
+transcribe(audio_file: str, model_name: str, device: str =3D "cpu") -&gt; D=
+ict[str, Any]:<br>    """<br>    Transcribe an audio file using a speech-to=
+-text model.<br><br>    Args:<br>        audio_file: Path to the audio file=
+ to transcribe.<br>        model_name: Name of the model to use for transcr=
+iption.<br>        device: The device to use for inference (e.g., "cpu" or =
+"cuda").<br><br>    Returns:<br>        A dictionary representing the trans=
+cript, including the segments, the language code, and the duration of the a=
+udio file.<br>    """<br>    model =3D whisper.load_model(model_name, devic=
+e)<br>    result =3D model.transcribe(audio_file)<br><br>    language_code =
+=3D result["language"]<br>    return {<br>        "segments": result["segme=
+nts"],<br>        "language_code": language_code,<br>    }</pre><p id=3D"c4=
+83" class=3D"pw-post-body-paragraph og oh hb oi b hv pc ok ol hy pd on oo o=
+p pe or os ot pf ov ow ox pg oz pa pb gu bj">Next, we align the transcript =
+segments using the align_segments function. As we discussed previously, thi=
+s step is essencial for accurate speaker diarization, as it ensures that ea=
+ch segment corresponds to the correct speaker:</p><pre class=3D"pk pl pm pn=
+ po qp qo qq bo qr ba bj">def align_segments(<br>    segments: List[Dict[st=
+r, Any]],<br>    language_code: str,<br>    audio_file: str,<br>    device:=
+ str =3D "cpu",<br>) -&gt; Dict[str, Any]:<br>    """<br>    Align the tran=
+script segments using a pretrained alignment model.<br><br>    Args:<br>   =
+     segments: List of transcript segments to align.<br>        language_co=
+de: Language code of the audio file.<br>        audio_file: Path to the aud=
+io file containing the audio data.<br>        device: The device to use for=
+ inference (e.g., "cpu" or "cuda").<br><br>    Returns:<br>        A dictio=
+nary representing the aligned transcript segments.<br>    """<br>    model_=
+a, metadata =3D load_align_model(language_code=3Dlanguage_code, device=3Dde=
+vice)<br>    result_aligned =3D align(segments, model_a, metadata, audio_fi=
+le, device)<br>    return result_aligned</pre><p id=3D"7e9e" class=3D"pw-po=
+st-body-paragraph og oh hb oi b hv pc ok ol hy pd on oo op pe or os ot pf o=
+v ow ox pg oz pa pb gu bj">With the transcript segments aligned, we can now=
+ perform speaker diarization. We use the diarize function, which leverages =
+the PyAnnotate library:</p><pre class=3D"pk pl pm pn po qp qo qq bo qr ba b=
+j">def diarize(audio_file: str, hf_token: str) -&gt; Dict[str, Any]:<br>   =
+ """<br>    Perform speaker diarization on an audio file.<br><br>    Args:<=
+br>        audio_file: Path to the audio file to diarize.<br>        hf_tok=
+en: Authentication token for accessing the Hugging Face API.<br><br>    Ret=
+urns:<br>        A dictionary representing the diarized audio file, includi=
+ng the speaker embeddings and the number of speakers.<br>    """<br>    dia=
+rization_pipeline =3D DiarizationPipeline(use_auth_token=3Dhf_token)<br>   =
+ diarization_result =3D diarization_pipeline(audio_file)<br>    return diar=
+ization_result</pre><p id=3D"e015" class=3D"pw-post-body-paragraph og oh hb=
+ oi b hv pc ok ol hy pd on oo op pe or os ot pf ov ow ox pg oz pa pb gu bj"=
+>After diarization, we assign speakers to each transcript segment using the=
+ assign_speakers function. It is the final step in our pipeline and complet=
+es our process of transforming the raw audio file into a transcript with sp=
+eaker information:</p><pre class=3D"pk pl pm pn po qp qo qq bo qr ba bj">de=
+f assign_speakers(<br>    diarization_result: Dict[str, Any], aligned_segme=
+nts: Dict[str, Any]<br>) -&gt; List[Dict[str, Any]]:<br>    """<br>    Assi=
+gn speakers to each transcript segment based on the speaker diarization res=
+ult.<br><br>    Args:<br>        diarization_result: Dictionary representin=
+g the diarized audio file, including the speaker embeddings and the number =
+of speakers.<br>        aligned_segments: Dictionary representing the align=
+ed transcript segments.<br><br>    Returns:<br>        A list of dictionari=
+es representing each segment of the transcript, including the start and end=
+ times, the<br>        spoken text, and the speaker ID.<br>    """<br>    r=
+esult_segments, word_seg =3D assign_word_speakers(<br>        diarization_r=
+esult, aligned_segments["segments"]<br>    )<br>    results_segments_w_spea=
+kers: List[Dict[str, Any]] =3D []<br>    for result_segment in result_segme=
+nts:<br>        results_segments_w_speakers.append(<br>            {<br>   =
+             "start": result_segment["start"],<br>                "end": re=
+sult_segment["end"],<br>                "text": result_segment["text"],<br>=
+                "speaker": result_segment["speaker"],<br>            }<br> =
+       )<br>    return results_segments_w_speakers</pre><p id=3D"e33d" clas=
+s=3D"pw-post-body-paragraph og oh hb oi b hv pc ok ol hy pd on oo op pe or =
+os ot pf ov ow ox pg oz pa pb gu bj">Finally, we combine all the steps into=
+ a single transcribe_and_diarize function. This function returns a list of =
+dictionaries representing each transcript segment, including the start and =
+end times, spoken text, and speaker identifier. Note that you need a Huggin=
+g Face API token to run the pipeline.</p><pre class=3D"pk pl pm pn po qp qo=
+ qq bo qr ba bj">def transcribe_and_diarize(<br>    audio_file: str,<br>   =
+ hf_token: str,<br>    model_name: str,<br>    device: str =3D "cpu",<br>) =
+-&gt; List[Dict[str, Any]]:<br>    """<br>    Transcribe an audio file and =
+perform speaker diarization to determine which words were spoken by each sp=
+eaker.<br><br>    Args:<br>        audio_file: Path to the audio file to tr=
+anscribe and diarize.<br>        hf_token: Authentication token for accessi=
+ng the Hugging Face API.<br>        model_name: Name of the model to use fo=
+r transcription.<br>        device: The device to use for inference (e.g., =
+"cpu" or "cuda").<br><br>    Returns:<br>        A list of dictionaries rep=
+resenting each segment of the transcript, including the start and end times=
+, the<br>        spoken text, and the speaker ID.<br>    """<br>    transcr=
+ipt =3D transcribe(audio_file, model_name, device)<br>    aligned_segments =
+=3D align_segments(<br>        transcript["segments"], transcript["language=
+_code"], audio_file, device<br>    )<br>    diarization_result =3D diarize(=
+audio_file, hf_token)<br>    results_segments_w_speakers =3D assign_speaker=
+s(diarization_result, aligned_segments)<br><br>    # Print the results in a=
+ user-friendly way<br>    for i, segment in enumerate(results_segments_w_sp=
+eakers):<br>        print(f"Segment {i + 1}:")<br>        print(f"Start tim=
+e: {segment['start']:.2f}")<br>        print(f"End time: {segment['end']:.2=
+f}")<br>        print(f"Speaker: {segment['speaker']}")<br>        print(f"=
+Transcript: {segment['text']}")<br>        print("")<br><br>    return resu=
+lts_segments_w_speakers</pre><h1 id=3D"3754" class=3D"nk nl hb be nm nn no =
+hx np nq nr ia ns nt nu nv nw nx ny nz oa ob oc od oe of bj">Assessing the =
+Performance of the Integrated ASR System</h1><p id=3D"754b" class=3D"pw-pos=
+t-body-paragraph og oh hb oi b hv oj ok ol hy om on oo op oq or os ot ou ov=
+ ow ox oy oz pa pb gu bj">Let=E2=80=99s start by testing our pipeline with =
+a short audio clip that I recorded myself. There are two speakers in the vi=
+deo that we need to identify. Also, notice the several hesitations in the s=
+peech of one of the speakers, making it hard to transcribe. We will use the=
+ base model from Whisper to assess its capabilities. For better accuracy, y=
+ou can use the medium or large ones. The transcription is presented below:<=
+/p><p id=3D"0247" class=3D"og oh qx oi b hv pc ok ol hy pd on oo rb pe or o=
+s rc pf ov ow rd pg oz pa pb gu bj">Segment 1:<br>Start time: 0.95<br>End t=
+ime: 2.44<br>Speaker: SPEAKER_01<br>Transcript: What TV show are you watchi=
+ng?</p><p id=3D"762a" class=3D"og oh qx oi b hv pc ok ol hy pd on oo rb pe =
+or os rc pf ov ow rd pg oz pa pb gu bj">Segment 2:<br>Start time: 3.56<br>E=
+nd time: 5.40<br>Speaker: SPEAKER_00<br>Transcript: Currently I=E2=80=99m w=
+atching This Is Us.</p><p id=3D"1036" class=3D"og oh qx oi b hv pc ok ol hy=
+ pd on oo rb pe or os rc pf ov ow rd pg oz pa pb gu bj">Segment 3:<br>Start=
+ time: 6.18<br>End time: 6.93<br>Speaker: SPEAKER_01<br>Transcript: What is=
+ it about?</p><p id=3D"f551" class=3D"og oh qx oi b hv pc ok ol hy pd on oo=
+ rb pe or os rc pf ov ow rd pg oz pa pb gu bj">Segment 4:<br>Start time: 8.=
+30<br>End time: 15.44<br>Speaker: SPEAKER_00<br>Transcript: It is about the=
+ life of a family throughout several generations.</p><p id=3D"40fe" class=
+=3D"og oh qx oi b hv pc ok ol hy pd on oo rb pe or os rc pf ov ow rd pg oz =
+pa pb gu bj">Segment 5:<br>Start time: 15.88<br>End time: 21.42<br>Speaker:=
+ SPEAKER_00<br>Transcript: And you can somehow live their lives through the=
+ series.</p><p id=3D"f279" class=3D"og oh qx oi b hv pc ok ol hy pd on oo r=
+b pe or os rc pf ov ow rd pg oz pa pb gu bj">Segment 6:<br>Start time: 22.3=
+4<br>End time: 23.55<br>Speaker: SPEAKER_01<br>Transcript: What will be the=
+ next one?</p><p id=3D"51a1" class=3D"og oh qx oi b hv pc ok ol hy pd on oo=
+ rb pe or os rc pf ov ow rd pg oz pa pb gu bj">Segment 7:<br>Start time: 25=
+.48<br>End time: 28.81<br>Speaker: SPEAKER_00<br>Transcript: Maybe beef I=
+=E2=80=99ve been hearing very good things about it.</p><p id=3D"0fa6" class=
+=3D"og oh qx oi b hv pc ok ol hy pd on oo rb pe or os rc pf ov ow rd pg oz =
+pa pb gu bj">Execution time for base: 8.57 seconds<br>Memory usage for base=
+: 3.67GB</p><p id=3D"86b6" class=3D"pw-post-body-paragraph og oh hb oi b hv=
+ pc ok ol hy pd on oo op pe or os ot pf ov ow ox pg oz pa pb gu bj">Our app=
+roach achieves its main goals with the transcription above. First, notice t=
+hat the transcription is accurate and that we could ignore the speech hesit=
+ations successfully. We produced text with the correct syntax, which helps =
+readability. The segments were well separated and correctly aligned with th=
+e audio timestamps. Finally, the speaker diarization was also executed adeq=
+uately, with the two speakers attributed accurately to each speech segment.=
+</p><p id=3D"0b79" class=3D"pw-post-body-paragraph og oh hb oi b hv pc ok o=
+l hy pd on oo op pe or os ot pf ov ow ox pg oz pa pb gu bj">Another importa=
+nt aspect is the computation efficiency of the various models on long-forma=
+t audio when running inference on CPU and GPU. We selected an audio file of=
+ around 30 minutes. Below, you can find the results:</p><div role=3D"button=
+" tabindex=3D"0" class=3D"pq pr fg ps bg pt"><div class=3D"ph pi re"></div>=
+</div>Figure 2: Execution time for the various models using CPU and GPU (Im=
+age by Author).<p id=3D"8a52" class=3D"pw-post-body-paragraph og oh hb oi b=
+ hv pc ok ol hy pd on oo op pe or os ot pf ov ow ox pg oz pa pb gu bj">The =
+main takeaway is that these models are very heavy and need to be more effic=
+ient to run at scale. For 30 minutes of video, we take around 70=E2=80=9375=
+ minutes to run the transcriptions on the CPU and approximately 15 minutes =
+on GPU. Also, remember that we need about 10GB of VRAM to run the large mod=
+el. We should expect these results since the models are still in the resear=
+ch phase.</p><h1 id=3D"64f4" class=3D"nk nl hb be nm nn no hx np nq nr ia n=
+s nt nu nv nw nx ny nz oa ob oc od oe of bj">Conclusion</h1><p id=3D"fe6b" =
+class=3D"pw-post-body-paragraph og oh hb oi b hv oj ok ol hy om on oo op oq=
+ or os ot ou ov ow ox oy oz pa pb gu bj">This article provides a comprehens=
+ive step-by-step guide to analyzing audio data using state-of-the-art speec=
+h recognition and speaker diarization technologies. We introduced Whisper, =
+PyAnnotate, and WhisperX, forming a powerful integrated ASR system together=
+ =E2=80=94 our approach produces promising results when working with long-f=
+orm audio transcriptions. It also solves the main limitations of Whisper, h=
+allucinating on long-form audio transcriptions, ensuring alignment between =
+transcription and audio, accurately segmenting the speech, and attributing =
+speakers to each segment.</p><p id=3D"6674" class=3D"pw-post-body-paragraph=
+ og oh hb oi b hv pc ok ol hy pd on oo op pe or os ot pf ov ow ox pg oz pa =
+pb gu bj">Nonetheless, the computational efficiency of these models remains=
+ a challenge, particularly for long-format audio and when running inference=
+ on limited hardware. Even so, the integration of Whisper, WhisperX, and Py=
+Annotate demonstrates the potential of these tools to transform the way we =
+process and analyze audio data, unlocking new possibilities for application=
+s across various industries and use cases.</p><p id=3D"1bde" class=3D"pw-po=
+st-body-paragraph og oh hb oi b hv pc ok ol hy pd on oo op pe or os ot pf o=
+v ow ox pg oz pa pb gu bj">Keep in touch: <a class=3D"af pz" href=3D"https:=
+//www.linkedin.com/in/luisbrasroque/" rel=3D"noopener ugc nofollow" target=
+=3D"_blank">LinkedIn</a></p></div></div></div></div></div></div><div class=
+=3D"ab ca"><div class=3D"ch bg fw fx fy fz"></div></div></div><div class=3D=
+"ab ca"><div class=3D"ch bg fw fx fy fz"><div class=3D"rf rg ab ju"><div cl=
+ass=3D"rh ab"><a class=3D"gp ax am ao" href=3D"https://medium.com/tag/machi=
+ne-learning" rel=3D"noopener follow"><div class=3D"ri fg cw rj gb rk rl be =
+b bf z bj rm">Machine Learning</div></a></div><div class=3D"rh ab"><a class=
+=3D"gp ax am ao" href=3D"https://medium.com/tag/statistics" rel=3D"noopener=
+ follow"><div class=3D"ri fg cw rj gb rk rl be b bf z bj rm">Statistics</di=
+v></a></div><div class=3D"rh ab"><a class=3D"gp ax am ao" href=3D"https://m=
+edium.com/tag/deep-learning" rel=3D"noopener follow"><div class=3D"ri fg cw=
+ rj gb rk rl be b bf z bj rm">Deep Learning</div></a></div><div class=3D"rh=
+ ab"><a class=3D"gp ax am ao" href=3D"https://medium.com/tag/audio" rel=3D"=
+noopener follow"><div class=3D"ri fg cw rj gb rk rl be b bf z bj rm">Audio<=
+/div></a></div><div class=3D"rh ab"><a class=3D"gp ax am ao" href=3D"https:=
+//medium.com/tag/hands-on-tutorials" rel=3D"noopener follow"><div class=3D"=
+ri fg cw rj gb rk rl be b bf z bj rm">Hands On Tutorials</div></a></div></d=
+iv></div></div><div class=3D"l"></div><div class=3D"l ae"><div class=3D"ab =
+ca"><div class=3D"ch bg fw fx fy fz"><div class=3D"ab co rw"><div class=3D"=
+ab q lo"><div class=3D"rx l"><div class=3D"ab q lo"><div class=3D"pw-multi-=
+vote-icon fg gr lp lq lr"><a class=3D"af ag ah ai aj ak al am an ao ap aq a=
+r as at" data-testid=3D"footerClapButton" href=3D"https://medium.com/m/sign=
+in?actionUrl=3Dhttps%3A%2F%2Fmedium.com%2F_%2Fvote%2Ftowards-data-science%2=
+Fed9424307281&amp;operation=3Dregister&amp;redirect=3Dhttps%3A%2F%2Ftowards=
+datascience.com%2Funlock-the-power-of-audio-data-advanced-transcription-and=
+-diarization-with-whisper-whisperx-and-ed9424307281&amp;user=3DLu%C3%ADs+Ro=
+que&amp;userId=3D2195f049db86" rel=3D"noopener follow"><div><div class=3D"b=
+l" aria-hidden=3D"false"><div class=3D"ls ao lt lu lv lw am lx ly lz lr"></=
+div></div></div></a></div><div class=3D"pw-multi-vote-count l ma mb mc md m=
+e mf mg"><p class=3D"be b du z dt">--</p></div></div><div class=3D"ab q lo"=
+><div class=3D"pw-multi-vote-icon fg gr lp lq lr"><a class=3D"af ag ah ai a=
+j ak al am an ao ap aq ar as at" data-testid=3D"footerClapButton" href=3D"h=
+ttps://medium.com/m/signin?actionUrl=3Dhttps%3A%2F%2Fmedium.com%2F_%2Fvote%=
+2Ftowards-data-science%2Fed9424307281&amp;operation=3Dregister&amp;redirect=
+=3Dhttps%3A%2F%2Ftowardsdatascience.com%2Funlock-the-power-of-audio-data-ad=
+vanced-transcription-and-diarization-with-whisper-whisperx-and-ed9424307281=
+&amp;user=3DLu%C3%ADs+Roque&amp;userId=3D2195f049db86" rel=3D"noopener foll=
+ow"><div><div class=3D"bl" aria-hidden=3D"false"><div class=3D"ls ao lt lu =
+lv lw am lx ly lz lr"></div></div></div></a></div><div class=3D"pw-multi-vo=
+te-count l ma mb mc md me mf mg"><p class=3D"be b du z dt">--</p></div></di=
+v></div><div class=3D"bp ab"><div><div class=3D"bl" aria-hidden=3D"false"><=
+p class=3D"be b bf z dt">8</p></div></div></div></div><div class=3D"ab q"><=
+div class=3D"sd l jr"><div><div class=3D"bl" aria-hidden=3D"false"><a class=
+=3D"af ag ah ai aj ak al am an ao ap aq ar as at" data-testid=3D"footerBook=
+markButton" href=3D"https://medium.com/m/signin?actionUrl=3Dhttps%3A%2F%2Fm=
+edium.com%2F_%2Fbookmark%2Fp%2Fed9424307281&amp;operation=3Dregister&amp;re=
+direct=3Dhttps%3A%2F%2Ftowardsdatascience.com%2Funlock-the-power-of-audio-d=
+ata-advanced-transcription-and-diarization-with-whisper-whisperx-and-ed9424=
+307281" rel=3D"noopener follow"></a></div></div></div><div class=3D"sd l jr=
+"><div class=3D"bl" aria-hidden=3D"false" aria-describedby=3D"postFooterSoc=
+ialMenu" aria-labelledby=3D"postFooterSocialMenu"><div><div class=3D"bl" ar=
+ia-hidden=3D"false"></div></div></div></div></div></div></div></div></div><=
+div class=3D"se sf sg sh si l bw"><div class=3D"ab ca"><div class=3D"ch bg =
+fw fx fy fz"><div class=3D"ck ab sj co"><div class=3D"ab iu"><a href=3D"htt=
+ps://medium.com/@luisroque" rel=3D"noopener follow"><div class=3D"l sk sl b=
+x sm iy"><div class=3D"l fg">Lu=C3=ADs Roque<div class=3D"iz bx l sn so fp =
+n ja fq"></div></div></div></a><a href=3D"https://towardsdatascience.com/" =
+rel=3D"noopener follow"><div class=3D"sp ab fg"><div><div class=3D"bl" aria=
+-hidden=3D"false"><div class=3D"l sq sr bx sm je"><div class=3D"l fg">Towar=
+ds Data Science<div class=3D"iz bx l by bz fp n ja fq"></div></div></div></=
+div></div></div></a></div><div class=3D"j i d"><div class=3D"ab"><a class=
+=3D"be b bf z el ri em eo ep eq er es et eu ev ew ex ss ey ez fa bl fb fc" =
+href=3D"https://medium.com/m/signin?actionUrl=3Dhttps%3A%2F%2Fmedium.com%2F=
+_%2Fsubscribe%2Fuser%2F2195f049db86&amp;operation=3Dregister&amp;redirect=
+=3Dhttps%3A%2F%2Ftowardsdatascience.com%2Funlock-the-power-of-audio-data-ad=
+vanced-transcription-and-diarization-with-whisper-whisperx-and-ed9424307281=
+&amp;user=3DLu%C3%ADs+Roque&amp;userId=3D2195f049db86" rel=3D"noopener foll=
+ow">Follow</a><div class=3D"ds l"><div><div><div class=3D"bl" aria-hidden=
+=3D"false"><div class=3D"l"><a class=3D"af ag ah ai aj ak al am an ao ap aq=
+ ar as at" href=3D"https://medium.com/m/signin?actionUrl=3D%2F_%2Fapi%2Fsub=
+scriptions%2Fnewsletters%2Fd8e0bc4b610d&amp;operation=3Dregister&amp;redire=
+ct=3Dhttps%3A%2F%2Ftowardsdatascience.com%2Funlock-the-power-of-audio-data-=
+advanced-transcription-and-diarization-with-whisper-whisperx-and-ed94243072=
+81&amp;newsletterV3=3D2195f049db86&amp;newsletterV3Id=3Dd8e0bc4b610d&amp;us=
+er=3DLu%C3%ADs+Roque&amp;userId=3D2195f049db86" rel=3D"noopener follow"></a=
+></div></div></div></div></div></div></div></div><div class=3D"ab cm co"><d=
+iv class=3D"l"><div class=3D"ab q"><a class=3D"af ag ah ai aj ak al am an a=
+o ap aq ar as at ab q" href=3D"https://medium.com/@luisroque" rel=3D"noopen=
+er follow"><h2 class=3D"pw-author-name be td te tf tg bj">Written by <!-- -=
+->Lu=C3=ADs Roque</h2></a></div><div class=3D"rh ab"><div class=3D"l jr"><a=
+ class=3D"af ag ah ai aj ak al am an ao ap aq ar jk" href=3D"https://medium=
+.com/@luisroque/followers" rel=3D"noopener follow">1.9K Followers</a></div>=
+<div class=3D"be b bf z jy jz ka ab kc kd ke kf dt jx">=C2=B7Writer for <di=
+v><div class=3D"bl" aria-hidden=3D"false"><a class=3D"af ag ah ai aj ak al =
+am an ao ap aq ar jk ab q" href=3D"https://towardsdatascience.com/" rel=3D"=
+noopener follow"><p class=3D"be b bf z jy jz ka kb kc kd ke kf bj">Towards =
+Data Science</p></a></div></div></div></div><div class=3D"th l"><p class=3D=
+"be b bf z bj">VP Data &amp; AI @ Marley Spoon | Ph.D. Researcher AI @ LIAC=
+C | Coordinator DS Masters @ NDS | CoFounder &amp; ex-CEO @ HUUB</p></div><=
+/div><div class=3D"h k"><div class=3D"ab"><a class=3D"be b bf z el ri em eo=
+ ep eq er es et eu ev ew ex ss ey ez fa bl fb fc" href=3D"https://medium.co=
+m/m/signin?actionUrl=3Dhttps%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2F21=
+95f049db86&amp;operation=3Dregister&amp;redirect=3Dhttps%3A%2F%2Ftowardsdat=
+ascience.com%2Funlock-the-power-of-audio-data-advanced-transcription-and-di=
+arization-with-whisper-whisperx-and-ed9424307281&amp;user=3DLu%C3%ADs+Roque=
+&amp;userId=3D2195f049db86" rel=3D"noopener follow">Follow</a><div class=3D=
+"ds l"><div><div><div class=3D"bl" aria-hidden=3D"false"><div class=3D"l"><=
+a class=3D"af ag ah ai aj ak al am an ao ap aq ar as at" href=3D"https://me=
+dium.com/m/signin?actionUrl=3D%2F_%2Fapi%2Fsubscriptions%2Fnewsletters%2Fd8=
+e0bc4b610d&amp;operation=3Dregister&amp;redirect=3Dhttps%3A%2F%2Ftowardsdat=
+ascience.com%2Funlock-the-power-of-audio-data-advanced-transcription-and-di=
+arization-with-whisper-whisperx-and-ed9424307281&amp;newsletterV3=3D2195f04=
+9db86&amp;newsletterV3Id=3Dd8e0bc4b610d&amp;user=3DLu%C3%ADs+Roque&amp;user=
+Id=3D2195f049db86" rel=3D"noopener follow"></a></div></div></div></div></di=
+v></div></div></div><div class=3D"ti bg tj tk tl tm tn to"></div></div></di=
+v><div class=3D"ab ca"><div class=3D"ch bg fw fx fy fz"><div class=3D"tz ua=
+ l"><h2 class=3D"be td ji z ha bj">More from <!-- -->Lu=C3=ADs Roque<!-- --=
+> and Towards Data Science</h2></div><div class=3D"ub ab lo ju uc ud ue uf =
+ug uh ui uj uk ul um un uo up uq"><div class=3D"ur us ut uu uv uw ux uy uz =
+va vb vc vd ve vf vg vh vi vj vk vl"><div class=3D"vm vn vo vp vq dv l"><di=
+v class=3D"dv gt l"><div class=3D"bg dv"><div class=3D"dv l"><div class=3D"=
+dv vr vs vt vu vv vw vx vy vz wa wb wc wd"><div class=3D"we"><a class=3D"af=
+ ag ah ai aj ak al am an ao ap aq ar as at" aria-label=3D"How to Fine-Tune =
+Llama2 for Python Coding on Consumer Hardware" rel=3D"noopener follow" href=
+=3D"https://towardsdatascience.com/how-to-fine-tune-llama2-for-python-codin=
+g-on-consumer-hardware-46942fa3cf92"><div class=3D"wg wh wi wj wk">How to F=
+ine-Tune Llama2 for Python Coding on Consumer Hardware</div></a></div><div =
+class=3D"wf ab ca cn"><div class=3D"wp wq wr ws wt ab"><div class=3D"gp l">=
+<div><div class=3D"bl" aria-hidden=3D"false"><a class=3D"af ag ah ai aj ak =
+al am an ao ap aq ar as at" href=3D"https://medium.com/@luisroque" rel=3D"n=
+oopener follow"><div class=3D"l fg">Lu=C3=ADs Roque<div class=3D"fo bx l wu=
+ wv fp n ax fq"></div></div></a></div></div></div><div class=3D"ww l"><div>=
+<div class=3D"bl" aria-hidden=3D"false"><a class=3D"af ag ah ai aj ak al am=
+ an ao ap aq ar jk ab q" href=3D"https://medium.com/@luisroque" rel=3D"noop=
+ener follow"><p class=3D"be b du z jy jz ka kb kc kd ke kf bj">Lu=C3=ADs Ro=
+que</p></a></div></div></div><div class=3D"ww l"><p class=3D"be b du z dt">=
+in</p></div><div class=3D"l"><div><div class=3D"bl" aria-hidden=3D"false"><=
+a class=3D"af ag ah ai aj ak al am an ao ap aq ar jk ab q" href=3D"https://=
+towardsdatascience.com/" rel=3D"noopener follow"><p class=3D"be b du z jy j=
+z ka kb kc kd ke kf bj">Towards Data Science</p></a></div></div></div></div=
+><div class=3D"wx wy wz xa xb xc xd xe xf xg l gu"><a class=3D"af ag ah ai =
+aj ak al am an ao ap aq ar as at" rel=3D"noopener follow" href=3D"https://t=
+owardsdatascience.com/how-to-fine-tune-llama2-for-python-coding-on-consumer=
+-hardware-46942fa3cf92"><div title=3D""><h2 class=3D"be hc nn hx xh xi np n=
+q ia xj xk ns op xl xm xn xo ot xp xq xr xs ox xt xu xv xw jy ka kb kd kf b=
+j">How to Fine-Tune Llama2 for Python Coding on Consumer Hardware</h2></div=
+><div class=3D"xx l"><h3 class=3D"be b ji z jy xy ka kb xz kd kf dt">Enhanc=
+ing Llama2=E2=80=99s proficiency in Python through supervised fine-tuning a=
+nd low-rank adaptation techniques</h3></div></a></div><a class=3D"af ag ah =
+ai aj ak al am an ao ap aq ar as at" rel=3D"noopener follow" href=3D"https:=
+//towardsdatascience.com/how-to-fine-tune-llama2-for-python-coding-on-consu=
+mer-hardware-46942fa3cf92"><div class=3D"ab q"><div class=3D"gt ab"><div cl=
+ass=3D"bl" aria-hidden=3D"false"><div class=3D""><div><div class=3D"bl" ari=
+a-hidden=3D"false"></div></div></div></div></div>=C2=B718 min read=C2=B7Aug=
+ 17</div></a><div class=3D"ya yb yc yd ye l"><div class=3D"ab co"><div clas=
+s=3D"am yf yg yh yi yj yk yl ym yn yo ab q"><div class=3D"ab q lo"><div cla=
+ss=3D"pw-multi-vote-icon fg gr lp lq lr"><a class=3D"af ag ah ai aj ak al a=
+m an ao ap aq ar as at" href=3D"https://medium.com/m/signin?actionUrl=3Dhtt=
+ps%3A%2F%2Fmedium.com%2F_%2Fvote%2Ftowards-data-science%2F46942fa3cf92&amp;=
+operation=3Dregister&amp;redirect=3Dhttps%3A%2F%2Ftowardsdatascience.com%2F=
+how-to-fine-tune-llama2-for-python-coding-on-consumer-hardware-46942fa3cf92=
+&amp;user=3DLu%C3%ADs+Roque&amp;userId=3D2195f049db86" rel=3D"noopener foll=
+ow"><div><div class=3D"bl" aria-hidden=3D"false"><div class=3D"ls ao lt lu =
+lv lw am lx ly lz lr"></div></div></div></a></div><div class=3D"pw-multi-vo=
+te-count l ma mb mc md me mf mg"><p class=3D"be b du z dt">--</p></div></di=
+v><div class=3D"yp l"><div><div class=3D"bl" aria-hidden=3D"false"><a class=
+=3D"af fh ah ls aj ak al mk an ao ap aq ar as at mj ab q ml mm" aria-label=
+=3D"responses" rel=3D"noopener follow" href=3D"https://towardsdatascience.c=
+om/how-to-fine-tune-llama2-for-python-coding-on-consumer-hardware-46942fa3c=
+f92?responsesOpen=3Dtrue&amp;sortBy=3DREVERSE_CHRON"><p class=3D"be b du z =
+dt">11</p></a></div></div></div></div><div class=3D"ab q yq yr"><div><div c=
+lass=3D"bl" aria-hidden=3D"false"><a class=3D"af ag ah ai aj ak al am an ao=
+ ap aq ar as at" href=3D"https://medium.com/m/signin?actionUrl=3Dhttps%3A%2=
+F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F46942fa3cf92&amp;operation=3Dregister&a=
+mp;redirect=3Dhttps%3A%2F%2Ftowardsdatascience.com%2Fhow-to-fine-tune-llama=
+2-for-python-coding-on-consumer-hardware-46942fa3cf92" rel=3D"noopener foll=
+ow"></a></div></div></div></div></div><div class=3D"j i d"><div class=3D"ti=
+ bg tj yt"></div></div></div></div></div></div></div></div></div><div class=
+=3D"ur us ut uu uv uw ux uy uz va vb vc vd ve vf vg vh vi vj vk vl"><div cl=
+ass=3D"vm vn vo vp vq dv l"><div class=3D"dv gt l"><div class=3D"bg dv"><di=
+v class=3D"dv l"><div class=3D"dv vr vs vt vu vv vw vx vy vz wa wb wc wd"><=
+div class=3D"we"><a class=3D"af ag ah ai aj ak al am an ao ap aq ar as at" =
+aria-label=3D"Cat holding a atom where the nucleus are documents." rel=3D"n=
+oopener follow" href=3D"https://towardsdatascience.com/forget-rag-the-futur=
+e-is-rag-fusion-1147298d8ad1"><div class=3D"wg wh wi wj wk">Cat holding a a=
+tom where the nucleus are documents.</div></a></div><div class=3D"wf ab ca =
+cn"><div class=3D"wp wq wr ws wt ab"><div class=3D"gp l"><div><div class=3D=
+"bl" aria-hidden=3D"false"><a class=3D"af ag ah ai aj ak al am an ao ap aq =
+ar as at" href=3D"https://araudaschl.medium.com/" rel=3D"noopener follow"><=
+div class=3D"l fg">Adrian H. Raudaschl<div class=3D"fo bx l wu wv fp n ax f=
+q"></div></div></a></div></div></div><div class=3D"ww l"><div><div class=3D=
+"bl" aria-hidden=3D"false"><a class=3D"af ag ah ai aj ak al am an ao ap aq =
+ar jk ab q" href=3D"https://araudaschl.medium.com/" rel=3D"noopener follow"=
+><p class=3D"be b du z jy jz ka kb kc kd ke kf bj">Adrian H. Raudaschl</p><=
+/a></div></div></div><div class=3D"ww l"><p class=3D"be b du z dt">in</p></=
+div><div class=3D"l"><div><div class=3D"bl" aria-hidden=3D"false"><a class=
+=3D"af ag ah ai aj ak al am an ao ap aq ar jk ab q" href=3D"https://towards=
+datascience.com/" rel=3D"noopener follow"><p class=3D"be b du z jy jz ka kb=
+ kc kd ke kf bj">Towards Data Science</p></a></div></div></div></div><div c=
+lass=3D"wx wy wz xa xb xc xd xe xf xg l gu"><a class=3D"af ag ah ai aj ak a=
+l am an ao ap aq ar as at" rel=3D"noopener follow" href=3D"https://towardsd=
+atascience.com/forget-rag-the-future-is-rag-fusion-1147298d8ad1"><div title=
+=3D""><h2 class=3D"be hc nn hx xh xi np nq ia xj xk ns op xl xm xn xo ot xp=
+ xq xr xs ox xt xu xv xw jy ka kb kd kf bj">Forget RAG, the Future is RAG-F=
+usion</h2></div><div class=3D"xx l"><h3 class=3D"be b ji z jy xy ka kb xz k=
+d kf dt">The Next Frontier of Search: Retrieval Augmented Generation meets =
+Reciprocal Rank Fusion and Generated Queries</h3></div></a></div><a class=
+=3D"af ag ah ai aj ak al am an ao ap aq ar as at" rel=3D"noopener follow" h=
+ref=3D"https://towardsdatascience.com/forget-rag-the-future-is-rag-fusion-1=
+147298d8ad1"><div class=3D"ab q"><div class=3D"gt ab"><div class=3D"bl" ari=
+a-hidden=3D"false"><div class=3D""><div><div class=3D"bl" aria-hidden=3D"fa=
+lse"></div></div></div></div></div>=C2=B710 min read=C2=B7Oct 6</div></a><d=
+iv class=3D"ya yb yc yd ye l"><div class=3D"ab co"><div class=3D"am yf yg y=
+h yi yj yk yl ym yn yo ab q"><div class=3D"ab q lo"><div class=3D"pw-multi-=
+vote-icon fg gr lp lq lr"><a class=3D"af ag ah ai aj ak al am an ao ap aq a=
+r as at" href=3D"https://medium.com/m/signin?actionUrl=3Dhttps%3A%2F%2Fmedi=
+um.com%2F_%2Fvote%2Ftowards-data-science%2F1147298d8ad1&amp;operation=3Dreg=
+ister&amp;redirect=3Dhttps%3A%2F%2Ftowardsdatascience.com%2Fforget-rag-the-=
+future-is-rag-fusion-1147298d8ad1&amp;user=3DAdrian+H.+Raudaschl&amp;userId=
+=3D921c5fccdb85" rel=3D"noopener follow"><div><div class=3D"bl" aria-hidden=
+=3D"false"><div class=3D"ls ao lt lu lv lw am lx ly lz lr"></div></div></di=
+v></a></div><div class=3D"pw-multi-vote-count l ma mb mc md me mf mg"><p cl=
+ass=3D"be b du z dt">--</p></div></div><div class=3D"yp l"><div><div class=
+=3D"bl" aria-hidden=3D"false"><a class=3D"af fh ah ls aj ak al mk an ao ap =
+aq ar as at mj ab q ml mm" aria-label=3D"responses" rel=3D"noopener follow"=
+ href=3D"https://towardsdatascience.com/forget-rag-the-future-is-rag-fusion=
+-1147298d8ad1?responsesOpen=3Dtrue&amp;sortBy=3DREVERSE_CHRON"><p class=3D"=
+be b du z dt">24</p></a></div></div></div></div><div class=3D"ab q yq yr"><=
+div><div class=3D"bl" aria-hidden=3D"false"><a class=3D"af ag ah ai aj ak a=
+l am an ao ap aq ar as at" href=3D"https://medium.com/m/signin?actionUrl=3D=
+https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F1147298d8ad1&amp;operation=3D=
+register&amp;redirect=3Dhttps%3A%2F%2Ftowardsdatascience.com%2Fforget-rag-t=
+he-future-is-rag-fusion-1147298d8ad1" rel=3D"noopener follow"></a></div></d=
+iv></div></div></div><div class=3D"j i d"><div class=3D"ti bg tj yt"></div>=
+</div></div></div></div></div></div></div></div><div class=3D"ur us ut uu u=
+v uw ux uy uz va vb vc vd ve vf vg vh vi vj vk vl"><div class=3D"vm vn vo v=
+p vq dv l"><div class=3D"dv gt l"><div class=3D"bg dv"><div class=3D"dv l">=
+<div class=3D"dv vr vs vt vu vv vw vx vy vz wa wb wc wd"><div class=3D"we">=
+<a class=3D"af ag ah ai aj ak al am an ao ap aq ar as at" aria-label=3D"Tim=
+eGPT: The First Foundation Model for Time Series Forecasting" rel=3D"noopen=
+er follow" href=3D"https://towardsdatascience.com/timegpt-the-first-foundat=
+ion-model-for-time-series-forecasting-bf0a75e63b3a"><div class=3D"wg wh wi =
+wj wk">TimeGPT: The First Foundation Model for Time Series Forecasting</div=
+></a></div><div class=3D"wf ab ca cn"><div class=3D"wp wq wr ws wt ab"><div=
+ class=3D"gp l"><div><div class=3D"bl" aria-hidden=3D"false"><a class=3D"af=
+ ag ah ai aj ak al am an ao ap aq ar as at" href=3D"https://medium.com/@mar=
+copeixeiro" rel=3D"noopener follow"><div class=3D"l fg">Marco Peixeiro<div =
+class=3D"fo bx l wu wv fp n ax fq"></div></div></a></div></div></div><div c=
+lass=3D"ww l"><div><div class=3D"bl" aria-hidden=3D"false"><a class=3D"af a=
+g ah ai aj ak al am an ao ap aq ar jk ab q" href=3D"https://medium.com/@mar=
+copeixeiro" rel=3D"noopener follow"><p class=3D"be b du z jy jz ka kb kc kd=
+ ke kf bj">Marco Peixeiro</p><div class=3D"yu gs l"><div class=3D"ab yv"><d=
+iv class=3D"ab"></div></div></div></a></div></div></div><div class=3D"ww l"=
+><p class=3D"be b du z dt">in</p></div><div class=3D"l"><div><div class=3D"=
+bl" aria-hidden=3D"false"><a class=3D"af ag ah ai aj ak al am an ao ap aq a=
+r jk ab q" href=3D"https://towardsdatascience.com/" rel=3D"noopener follow"=
+><p class=3D"be b du z jy jz ka kb kc kd ke kf bj">Towards Data Science</p>=
+</a></div></div></div></div><div class=3D"wx wy wz xa xb xc xd xe xf xg l g=
+u"><a class=3D"af ag ah ai aj ak al am an ao ap aq ar as at" rel=3D"noopene=
+r follow" href=3D"https://towardsdatascience.com/timegpt-the-first-foundati=
+on-model-for-time-series-forecasting-bf0a75e63b3a"><div title=3D""><h2 clas=
+s=3D"be hc nn hx xh xi np nq ia xj xk ns op xl xm xn xo ot xp xq xr xs ox x=
+t xu xv xw jy ka kb kd kf bj">TimeGPT: The First Foundation Model for Time =
+Series Forecasting</h2></div><div class=3D"xx l"><h3 class=3D"be b ji z jy =
+xy ka kb xz kd kf dt">Explore the first generative pre-trained forecasting =
+model and apply it in a project with Python</h3></div></a></div><a class=3D=
+"af ag ah ai aj ak al am an ao ap aq ar as at" rel=3D"noopener follow" href=
+=3D"https://towardsdatascience.com/timegpt-the-first-foundation-model-for-t=
+ime-series-forecasting-bf0a75e63b3a"><div class=3D"ab q"><div class=3D"gt a=
+b"><div class=3D"bl" aria-hidden=3D"false"><div class=3D""><div><div class=
+=3D"bl" aria-hidden=3D"false"></div></div></div></div></div>=C2=B712 min re=
+ad=C2=B7Oct 24</div></a><div class=3D"ya yb yc yd ye l"><div class=3D"ab co=
+"><div class=3D"am yf yg yh yi yj yk yl ym yn yo ab q"><div class=3D"ab q l=
+o"><div class=3D"pw-multi-vote-icon fg gr lp lq lr"><a class=3D"af ag ah ai=
+ aj ak al am an ao ap aq ar as at" href=3D"https://medium.com/m/signin?acti=
+onUrl=3Dhttps%3A%2F%2Fmedium.com%2F_%2Fvote%2Ftowards-data-science%2Fbf0a75=
+e63b3a&amp;operation=3Dregister&amp;redirect=3Dhttps%3A%2F%2Ftowardsdatasci=
+ence.com%2Ftimegpt-the-first-foundation-model-for-time-series-forecasting-b=
+f0a75e63b3a&amp;user=3DMarco+Peixeiro&amp;userId=3D741c1c8fcfbd" rel=3D"noo=
+pener follow"><div><div class=3D"bl" aria-hidden=3D"false"><div class=3D"ls=
+ ao lt lu lv lw am lx ly lz lr"></div></div></div></a></div><div class=3D"p=
+w-multi-vote-count l ma mb mc md me mf mg"><p class=3D"be b du z dt">--</p>=
+</div></div><div class=3D"yp l"><div><div class=3D"bl" aria-hidden=3D"false=
+"><a class=3D"af fh ah ls aj ak al mk an ao ap aq ar as at mj ab q ml mm" a=
+ria-label=3D"responses" rel=3D"noopener follow" href=3D"https://towardsdata=
+science.com/timegpt-the-first-foundation-model-for-time-series-forecasting-=
+bf0a75e63b3a?responsesOpen=3Dtrue&amp;sortBy=3DREVERSE_CHRON"><p class=3D"b=
+e b du z dt">18</p></a></div></div></div></div><div class=3D"ab q yq yr"><d=
+iv><div class=3D"bl" aria-hidden=3D"false"><a class=3D"af ag ah ai aj ak al=
+ am an ao ap aq ar as at" href=3D"https://medium.com/m/signin?actionUrl=3Dh=
+ttps%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fbf0a75e63b3a&amp;operation=3Dr=
+egister&amp;redirect=3Dhttps%3A%2F%2Ftowardsdatascience.com%2Ftimegpt-the-f=
+irst-foundation-model-for-time-series-forecasting-bf0a75e63b3a" rel=3D"noop=
+ener follow"></a></div></div></div></div></div><div class=3D"j i d"><div cl=
+ass=3D"ti bg tj yt"></div></div></div></div></div></div></div></div></div><=
+div class=3D"ur us ut uu uv uw ux uy uz va vb vc vd ve vf vg vh vi vj vk vl=
+"><div class=3D"vm vn vo vp vq dv l"><div class=3D"dv gt l"><div class=3D"b=
+g dv"><div class=3D"dv l"><div class=3D"dv vr vs vt vu vv vw vx vy vz wa wb=
+ wc wd"><div class=3D"we"><a class=3D"af ag ah ai aj ak al am an ao ap aq a=
+r as at" aria-label=3D"Document-Oriented Agents: A Journey with Vector Data=
+bases, LLMs, Langchain, FastAPI, and Docker" rel=3D"noopener follow" href=
+=3D"https://towardsdatascience.com/document-oriented-agents-a-journey-with-=
+vector-databases-llms-langchain-fastapi-and-docker-be0efcd229f4"><div class=
+=3D"wg wh wi wj wk">Document-Oriented Agents: A Journey with Vector Databas=
+es, LLMs, Langchain, FastAPI, and Docker</div></a></div><div class=3D"wf ab=
+ ca cn"><div class=3D"wp wq wr ws wt ab"><div class=3D"gp l"><div><div clas=
+s=3D"bl" aria-hidden=3D"false"><a class=3D"af ag ah ai aj ak al am an ao ap=
+ aq ar as at" href=3D"https://medium.com/@luisroque" rel=3D"noopener follow=
+"><div class=3D"l fg">Lu=C3=ADs Roque<div class=3D"fo bx l wu wv fp n ax fq=
+"></div></div></a></div></div></div><div class=3D"ww l"><div><div class=3D"=
+bl" aria-hidden=3D"false"><a class=3D"af ag ah ai aj ak al am an ao ap aq a=
+r jk ab q" href=3D"https://medium.com/@luisroque" rel=3D"noopener follow"><=
+p class=3D"be b du z jy jz ka kb kc kd ke kf bj">Lu=C3=ADs Roque</p></a></d=
+iv></div></div><div class=3D"ww l"><p class=3D"be b du z dt">in</p></div><d=
+iv class=3D"l"><div><div class=3D"bl" aria-hidden=3D"false"><a class=3D"af =
+ag ah ai aj ak al am an ao ap aq ar jk ab q" href=3D"https://towardsdatasci=
+ence.com/" rel=3D"noopener follow"><p class=3D"be b du z jy jz ka kb kc kd =
+ke kf bj">Towards Data Science</p></a></div></div></div></div><div class=3D=
+"wx wy wz xa xb xc xd xe xf xg l gu"><a class=3D"af ag ah ai aj ak al am an=
+ ao ap aq ar as at" rel=3D"noopener follow" href=3D"https://towardsdatascie=
+nce.com/document-oriented-agents-a-journey-with-vector-databases-llms-langc=
+hain-fastapi-and-docker-be0efcd229f4"><div title=3D"Document-Oriented Agent=
+s: A Journey with Vector Databases, LLMs, Langchain, FastAPI, and Docker"><=
+h2 class=3D"be hc nn hx xh xi np nq ia xj xk ns op xl xm xn xo ot xp xq xr =
+xs ox xt xu xv xw jy ka kb kd kf bj">Document-Oriented Agents: A Journey wi=
+th Vector Databases, LLMs, Langchain, FastAPI, and Docker</h2></div><div cl=
+ass=3D"xx l"><h3 class=3D"be b ji z jy xy ka kb xz kd kf dt">Leveraging Chr=
+omaDB, Langchain, and ChatGPT: Enhanced Responses and Cited Sources from La=
+rge Document Databases</h3></div></a></div><a class=3D"af ag ah ai aj ak al=
+ am an ao ap aq ar as at" rel=3D"noopener follow" href=3D"https://towardsda=
+tascience.com/document-oriented-agents-a-journey-with-vector-databases-llms=
+-langchain-fastapi-and-docker-be0efcd229f4"><div class=3D"ab q"><div class=
+=3D"gt ab"><div class=3D"bl" aria-hidden=3D"false"><div class=3D""><div><di=
+v class=3D"bl" aria-hidden=3D"false"></div></div></div></div></div>=C2=B711=
+ min read=C2=B7Jul 5</div></a><div class=3D"ya yb yc yd ye l"><div class=3D=
+"ab co"><div class=3D"am yf yg yh yi yj yk yl ym yn yo ab q"><div class=3D"=
+ab q lo"><div class=3D"pw-multi-vote-icon fg gr lp lq lr"><a class=3D"af ag=
+ ah ai aj ak al am an ao ap aq ar as at" href=3D"https://medium.com/m/signi=
+n?actionUrl=3Dhttps%3A%2F%2Fmedium.com%2F_%2Fvote%2Ftowards-data-science%2F=
+be0efcd229f4&amp;operation=3Dregister&amp;redirect=3Dhttps%3A%2F%2Ftowardsd=
+atascience.com%2Fdocument-oriented-agents-a-journey-with-vector-databases-l=
+lms-langchain-fastapi-and-docker-be0efcd229f4&amp;user=3DLu%C3%ADs+Roque&am=
+p;userId=3D2195f049db86" rel=3D"noopener follow"><div><div class=3D"bl" ari=
+a-hidden=3D"false"><div class=3D"ls ao lt lu lv lw am lx ly lz lr"></div></=
+div></div></a></div><div class=3D"pw-multi-vote-count l ma mb mc md me mf m=
+g"><p class=3D"be b du z dt">--</p></div></div><div class=3D"yp l"><div><di=
+v class=3D"bl" aria-hidden=3D"false"><a class=3D"af fh ah ls aj ak al mk an=
+ ao ap aq ar as at mj ab q ml mm" aria-label=3D"responses" rel=3D"noopener =
+follow" href=3D"https://towardsdatascience.com/document-oriented-agents-a-j=
+ourney-with-vector-databases-llms-langchain-fastapi-and-docker-be0efcd229f4=
+?responsesOpen=3Dtrue&amp;sortBy=3DREVERSE_CHRON"><p class=3D"be b du z dt"=
+>5</p></a></div></div></div></div><div class=3D"ab q yq yr"><div><div class=
+=3D"bl" aria-hidden=3D"false"><a class=3D"af ag ah ai aj ak al am an ao ap =
+aq ar as at" href=3D"https://medium.com/m/signin?actionUrl=3Dhttps%3A%2F%2F=
+medium.com%2F_%2Fbookmark%2Fp%2Fbe0efcd229f4&amp;operation=3Dregister&amp;r=
+edirect=3Dhttps%3A%2F%2Ftowardsdatascience.com%2Fdocument-oriented-agents-a=
+-journey-with-vector-databases-llms-langchain-fastapi-and-docker-be0efcd229=
+f4" rel=3D"noopener follow"></a></div></div></div></div></div></div></div><=
+/div></div></div></div></div></div><div class=3D"ti bg tj dj dk yw yx yy"><=
+/div><div class=3D"ab js jt yz za zb"><a class=3D"be b bf z bj ri zc zd ze =
+ys ml zf es et eu zg zh zi ex zj zk zl zm zn ey ez fa bl fb fc" href=3D"htt=
+ps://medium.com/@luisroque" rel=3D"noopener follow"><div class=3D"l fc">See=
+ all from <!-- -->Lu=C3=ADs Roque</div></a><div class=3D"zo zp zq zr zs zt =
+zu zv zw mg l"><a class=3D"be b bf z bj ri zc zd ze ys ml zf es et eu zg zh=
+ zi ex zj zk zl zm zn ey ez fa bl fb fc" href=3D"https://towardsdatascience=
+.com/" rel=3D"noopener follow"><div class=3D"l fc">See all from <!-- -->Tow=
+ards Data Science</div></a></div></div></div></div><div class=3D"ti bg tj z=
+x zy zz aba abb"></div><div class=3D"ab ca"><div class=3D"ch bg fw fx fy fz=
+"><div class=3D"abc abd l"><h2 class=3D"be td nn hx np nq ia ns nt nv nw nx=
+ nz oa ob od oe bj">Recommended from Medium</h2><div class=3D"pk pl pm pn p=
+o l"><div class=3D"ub ab lo ju uc ud ue uf ug uh ui uj uk ul um un uo up uq=
+"><div class=3D"ur us ut uu uv uw ux uy uz va vb vc vd ve vf vg vh vi vj vk=
+ vl"><div class=3D"vm vn vo vp vq dv l"><div class=3D"dv gt l"><div class=
+=3D"bg dv"><div class=3D"dv l"><div class=3D"dv vr vs vt vu vv vw vx vy vz =
+wa wb wc wd"><div class=3D"we"><a class=3D"af ag ah ai aj ak al am an ao ap=
+ aq ar as at" aria-label=3D"Speaker diarization using Whisper ASR and Pyann=
+ote" href=3D"https://medium.com/@xriteshsharmax/speaker-diarization-using-w=
+hisper-asr-and-pyannote-f0141c85d59a" rel=3D"noopener follow"><div class=3D=
+"wg wh wi wj wk">Speaker diarization using Whisper ASR and Pyannote</div></=
+a></div><div class=3D"wf ab ca cn"><div class=3D"wp wq wr ws wt ab"><div cl=
+ass=3D"gp l"><div><div class=3D"bl" aria-hidden=3D"false"><a class=3D"af ag=
+ ah ai aj ak al am an ao ap aq ar as at" href=3D"https://medium.com/@xrites=
+hsharmax" rel=3D"noopener follow"><div class=3D"l fg">Ritesh<div class=3D"f=
+o bx l wu wv fp n ax fq"></div></div></a></div></div></div><div class=3D"ww=
+ l"><div><div class=3D"bl" aria-hidden=3D"false"><a class=3D"af ag ah ai aj=
+ ak al am an ao ap aq ar jk ab q" href=3D"https://medium.com/@xriteshsharma=
+x" rel=3D"noopener follow"><p class=3D"be b du z jy jz ka kb kc kd ke kf bj=
+">Ritesh</p></a></div></div></div></div><div class=3D"wx wy wz xa xb xc xd =
+xe xf xg l gu"><a class=3D"af ag ah ai aj ak al am an ao ap aq ar as at" hr=
+ef=3D"https://medium.com/@xriteshsharmax/speaker-diarization-using-whisper-=
+asr-and-pyannote-f0141c85d59a" rel=3D"noopener follow"><div title=3D""><h2 =
+class=3D"be hc nn hx xh xi np nq ia xj xk ns op xl xm xn xo ot xp xq xr xs =
+ox xt xu xv xw jy ka kb kd kf bj">Speaker diarization using Whisper ASR and=
+ Pyannote</h2></div><div class=3D"xx l"><h3 class=3D"be b ji z jy xy ka kb =
+xz kd kf dt">What is speaker diarization?</h3></div></a></div><a class=3D"a=
+f ag ah ai aj ak al am an ao ap aq ar as at" href=3D"https://medium.com/@xr=
+iteshsharmax/speaker-diarization-using-whisper-asr-and-pyannote-f0141c85d59=
+a" rel=3D"noopener follow"><div class=3D"ab q">8 min read=C2=B7Jul 22</div>=
+</a><div class=3D"ya yb yc yd ye l"><div class=3D"ab co"><div class=3D"am y=
+f yg yh yi yj yk yl ym yn yo ab q"><div class=3D"ab q lo"><div class=3D"pw-=
+multi-vote-icon fg gr lp lq lr"><a class=3D"af ag ah ai aj ak al am an ao a=
+p aq ar as at" href=3D"https://medium.com/m/signin?actionUrl=3Dhttps%3A%2F%=
+2Fmedium.com%2F_%2Fvote%2Fp%2Ff0141c85d59a&amp;operation=3Dregister&amp;red=
+irect=3Dhttps%3A%2F%2Fmedium.com%2F%40xriteshsharmax%2Fspeaker-diarization-=
+using-whisper-asr-and-pyannote-f0141c85d59a&amp;user=3DRitesh&amp;userId=3D=
+5732747670e3" rel=3D"noopener follow"><div><div class=3D"bl" aria-hidden=3D=
+"false"><div class=3D"ls ao lt lu lv lw am lx ly lz lr"></div></div></div><=
+/a></div><div class=3D"pw-multi-vote-count l ma mb mc md me mf mg"><p class=
+=3D"be b du z dt">--</p></div></div><div class=3D"yp l"><div><div class=3D"=
+bl" aria-hidden=3D"false"><a class=3D"af fh ah ls aj ak al mk an ao ap aq a=
+r as at mj ab q ml mm" aria-label=3D"responses" href=3D"https://medium.com/=
+@xriteshsharmax/speaker-diarization-using-whisper-asr-and-pyannote-f0141c85=
+d59a?responsesOpen=3Dtrue&amp;sortBy=3DREVERSE_CHRON" rel=3D"noopener follo=
+w"><p class=3D"be b du z dt">1</p></a></div></div></div></div><div class=3D=
+"ab q yq yr"><div><div class=3D"bl" aria-hidden=3D"false"><a class=3D"af ag=
+ ah ai aj ak al am an ao ap aq ar as at" href=3D"https://medium.com/m/signi=
+n?actionUrl=3Dhttps%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff0141c85d59a&am=
+p;operation=3Dregister&amp;redirect=3Dhttps%3A%2F%2Fmedium.com%2F%40xritesh=
+sharmax%2Fspeaker-diarization-using-whisper-asr-and-pyannote-f0141c85d59a" =
+rel=3D"noopener follow"></a></div></div></div></div></div><div class=3D"j i=
+ d"><div class=3D"ti bg tj yt"></div></div></div></div></div></div></div></=
+div></div><div class=3D"ur us ut uu uv uw ux uy uz va vb vc vd ve vf vg vh =
+vi vj vk vl"><div class=3D"vm vn vo vp vq dv l"><div class=3D"dv gt l"><div=
+ class=3D"bg dv"><div class=3D"dv l"><div class=3D"dv vr vs vt vu vv vw vx =
+vy vz wa wb wc wd"><div class=3D"we"><a class=3D"af ag ah ai aj ak al am an=
+ ao ap aq ar as at" aria-label=3D"2 robots looking at each other" href=3D"h=
+ttps://betterprogramming.pub/whisper-showdown-427ce5f486ea" rel=3D"noopener=
+ follow"><div class=3D"wg wh wi wj wk">2 robots looking at each other</div>=
+</a></div><div class=3D"wf ab ca cn"><div class=3D"wp wq wr ws wt ab"><div =
+class=3D"gp l"><div><div class=3D"bl" aria-hidden=3D"false"><a class=3D"af =
+ag ah ai aj ak al am an ao ap aq ar as at" href=3D"https://seandearnaley.me=
+dium.com/" rel=3D"noopener follow"><div class=3D"l fg">Sean Dearnaley<div c=
+lass=3D"fo bx l wu wv fp n ax fq"></div></div></a></div></div></div><div cl=
+ass=3D"ww l"><div><div class=3D"bl" aria-hidden=3D"false"><a class=3D"af ag=
+ ah ai aj ak al am an ao ap aq ar jk ab q" href=3D"https://seandearnaley.me=
+dium.com/" rel=3D"noopener follow"><p class=3D"be b du z jy jz ka kb kc kd =
+ke kf bj">Sean Dearnaley</p></a></div></div></div><div class=3D"ww l"><p cl=
+ass=3D"be b du z dt">in</p></div><div class=3D"l"><div><div class=3D"bl" ar=
+ia-hidden=3D"false"><a class=3D"af ag ah ai aj ak al am an ao ap aq ar jk a=
+b q" href=3D"https://betterprogramming.pub/" rel=3D"noopener follow"><p cla=
+ss=3D"be b du z jy jz ka kb kc kd ke kf bj">Better Programming</p></a></div=
+></div></div></div><div class=3D"wx wy wz xa xb xc xd xe xf xg l gu"><a cla=
+ss=3D"af ag ah ai aj ak al am an ao ap aq ar as at" href=3D"https://betterp=
+rogramming.pub/whisper-showdown-427ce5f486ea" rel=3D"noopener follow"><div =
+title=3D""><h2 class=3D"be hc nn hx xh xi np nq ia xj xk ns op xl xm xn xo =
+ot xp xq xr xs ox xt xu xv xw jy ka kb kd kf bj">Whisper Showdown</h2></div=
+><div class=3D"xx l"><h3 class=3D"be b ji z jy xy ka kb xz kd kf dt">C++ vs=
+. Native: Speed, cost, YouTube transcriptions, visualizations, and benchmar=
+ks</h3></div></a></div><a class=3D"af ag ah ai aj ak al am an ao ap aq ar a=
+s at" href=3D"https://betterprogramming.pub/whisper-showdown-427ce5f486ea" =
+rel=3D"noopener follow"><div class=3D"ab q">10 min read=C2=B7Aug 6</div></a=
+><div class=3D"ya yb yc yd ye l"><div class=3D"ab co"><div class=3D"am yf y=
+g yh yi yj yk yl ym yn yo ab q"><div class=3D"ab q lo"><div class=3D"pw-mul=
+ti-vote-icon fg gr lp lq lr"><a class=3D"af ag ah ai aj ak al am an ao ap a=
+q ar as at" href=3D"https://medium.com/m/signin?actionUrl=3Dhttps%3A%2F%2Fm=
+edium.com%2F_%2Fvote%2Fbetter-programming%2F427ce5f486ea&amp;operation=3Dre=
+gister&amp;redirect=3Dhttps%3A%2F%2Fbetterprogramming.pub%2Fwhisper-showdow=
+n-427ce5f486ea&amp;user=3DSean+Dearnaley&amp;userId=3D464b9aeccd8b" rel=3D"=
+noopener follow"><div><div class=3D"bl" aria-hidden=3D"false"><div class=3D=
+"ls ao lt lu lv lw am lx ly lz lr"></div></div></div></a></div><div class=
+=3D"pw-multi-vote-count l ma mb mc md me mf mg"><p class=3D"be b du z dt">-=
+-</p></div></div><div class=3D"yp l"><div><div class=3D"bl" aria-hidden=3D"=
+false"><a class=3D"af fh ah ls aj ak al mk an ao ap aq ar as at mj ab q ml =
+mm" aria-label=3D"responses" href=3D"https://betterprogramming.pub/whisper-=
+showdown-427ce5f486ea?responsesOpen=3Dtrue&amp;sortBy=3DREVERSE_CHRON" rel=
+=3D"noopener follow"><p class=3D"be b du z dt">2</p></a></div></div></div><=
+/div><div class=3D"ab q yq yr"><div><div class=3D"bl" aria-hidden=3D"false"=
+><a class=3D"af ag ah ai aj ak al am an ao ap aq ar as at" href=3D"https://=
+medium.com/m/signin?actionUrl=3Dhttps%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp=
+%2F427ce5f486ea&amp;operation=3Dregister&amp;redirect=3Dhttps%3A%2F%2Fbette=
+rprogramming.pub%2Fwhisper-showdown-427ce5f486ea" rel=3D"noopener follow"><=
+/a></div></div></div></div></div></div></div></div></div></div></div></div>=
+</div></div><div class=3D"ti bg tj abe"></div><h2 class=3D"be td ji z ha bj=
+">Lists</h2><div class=3D"yt l"><div class=3D"cm ab lo ju uc ud ue uf ug uh=
+ ui uj uk ul um un uo up uq"><div class=3D"ur us ut uu uv uw ux uy uz va vb=
+ vc vd ve vf vg vh vi vj vk vl"><a class=3D"af ag ah ai aj ak al am an ao a=
+p aq ar as at ab ck cm" href=3D"https://medium.com/@ben.putney/list/predict=
+ive-modeling-w-python-e3668ea008e1" rel=3D"noopener follow"><div class=3D"a=
+bl abm jy ab jr fg"><div class=3D"fg wl abg bw abh"><div class=3D"wl iw jy =
+l"></div></div><div class=3D"fg wl abg bw abi abj"><div class=3D"wl iw jy l=
+"></div></div><div class=3D"fg wl bw je abk"><div class=3D"wl iw jy l"></di=
+v></div></div><div class=3D"aw l"><h2 class=3D"be td ji z jy xy ka kb xz kd=
+ kf ha bj">Predictive Modeling w/ Python</h2><div class=3D"be b du z dt ab =
+abf">20 stories=C2=B7559<!-- --> <!-- -->saves</div></div></a></div><div cl=
+ass=3D"ur us ut uu uv uw ux uy uz va vb vc vd ve vf vg vh vi vj vk vl"><a c=
+lass=3D"af ag ah ai aj ak al am an ao ap aq ar as at ab ck cm" href=3D"http=
+s://destingong.medium.com/list/practical-guides-to-machine-learning-a877c2a=
+39884" rel=3D"noopener follow"><div class=3D"abl abm jy ab jr fg"><div clas=
+s=3D"fg wl abg bw abh"><div class=3D"wl iw jy l">Principal Component Analys=
+is for ML</div></div><div class=3D"fg wl abg bw abi abj"><div class=3D"wl i=
+w jy l">Time Series Analysis</div></div><div class=3D"fg wl bw je abk"><div=
+ class=3D"wl iw jy l">deep learning cheatsheet for beginner</div></div></di=
+v><div class=3D"aw l"><h2 class=3D"be td ji z jy xy ka kb xz kd kf ha bj">P=
+ractical Guides to Machine Learning</h2><div class=3D"be b du z dt ab abf">=
+10 stories=C2=B7636<!-- --> <!-- -->saves</div></div></a></div><div class=
+=3D"ur us ut uu uv uw ux uy uz va vb vc vd ve vf vg vh vi vj vk vl"><a clas=
+s=3D"af ag ah ai aj ak al am an ao ap aq ar as at ab ck cm" href=3D"https:/=
+/medium.com/@AMGAS14/list/natural-language-processing-0a856388a93a" rel=3D"=
+noopener follow"><div class=3D"abl abm jy ab jr fg"><div class=3D"fg wl abg=
+ bw abh"><div class=3D"wl iw jy l"></div></div><div class=3D"fg wl abg bw a=
+bi abj"><div class=3D"wl iw jy l"></div></div><div class=3D"fg wl bw je abk=
+"><div class=3D"wl iw jy l"></div></div></div><div class=3D"aw l"><h2 class=
+=3D"be td ji z jy xy ka kb xz kd kf ha bj">Natural Language Processing</h2>=
+<div class=3D"be b du z dt ab abf">799 stories=C2=B7364<!-- --> <!-- -->sav=
+es</div></div></a></div><div class=3D"ur us ut uu uv uw ux uy uz va vb vc v=
+d ve vf vg vh vi vj vk vl"><a class=3D"af ag ah ai aj ak al am an ao ap aq =
+ar as at ab ck cm" href=3D"https://medium.com/@MediumStaff/list/the-new-cha=
+tbots-chatgpt-bard-and-beyond-5969c7449b7f" rel=3D"noopener follow"><div cl=
+ass=3D"abl abm jy ab jr fg"><div class=3D"fg wl abg bw abh"><div class=3D"w=
+l iw jy l">Image by vectorjuice on FreePik</div></div><div class=3D"fg wl a=
+bg bw abi abj"><div class=3D"wl iw jy l"></div></div><div class=3D"fg wl bw=
+ je abk"><div class=3D"wl iw jy l"></div></div></div><div class=3D"aw l"><h=
+2 class=3D"be td ji z jy xy ka kb xz kd kf ha bj">The New Chatbots: ChatGPT=
+, Bard, and Beyond</h2><div class=3D"be b du z dt ab abf">12 stories=C2=B71=
+79<!-- --> <!-- -->saves</div></div></a></div></div></div><div class=3D"ti =
+bg tj zp dj zr dk gm abn gn abo go abp"></div><div class=3D"ub ab lo ju uc =
+ud ue uf ug uh ui uj uk ul um un uo up uq"><div class=3D"ur us ut uu uv uw =
+ux uy uz va vb vc vd ve vf vg vh vi vj vk vl"><div class=3D"vm vn vo vp vq =
+dv l"><div class=3D"dv gt l"><div class=3D"bg dv"><div class=3D"dv l"><div =
+class=3D"dv vr vs vt vu vv vw vx vy vz wa wb wc wd"><div class=3D"we"><a cl=
+ass=3D"af ag ah ai aj ak al am an ao ap aq ar as at" aria-label=3D"Comparin=
+g state-of-the-art speaker diarization frameworks&nbsp;: Pyannote vs Nemo" =
+href=3D"https://lajavaness.medium.com/comparing-state-of-the-art-speaker-di=
+arization-frameworks-pyannote-vs-nemo-31a191c6300" rel=3D"noopener follow">=
+<div class=3D"wg wh wi wj wk">Comparing state-of-the-art speaker diarizatio=
+n frameworks&nbsp;: Pyannote vs Nemo</div></a></div><div class=3D"wf ab ca =
+cn"><div class=3D"wp wq wr ws wt ab"><div class=3D"gp l"><div><div class=3D=
+"bl" aria-hidden=3D"false"><a class=3D"af ag ah ai aj ak al am an ao ap aq =
+ar as at" href=3D"https://lajavaness.medium.com/" rel=3D"noopener follow"><=
+div class=3D"l fg">La Javaness R&amp;D<div class=3D"fo bx l wu wv fp n ax f=
+q"></div></div></a></div></div></div><div class=3D"ww l"><div><div class=3D=
+"bl" aria-hidden=3D"false"><a class=3D"af ag ah ai aj ak al am an ao ap aq =
+ar jk ab q" href=3D"https://lajavaness.medium.com/" rel=3D"noopener follow"=
+><p class=3D"be b du z jy jz ka kb kc kd ke kf bj">La Javaness R&amp;D</p><=
+/a></div></div></div></div><div class=3D"wx wy wz xa xb xc xd xe xf xg l gu=
+"><a class=3D"af ag ah ai aj ak al am an ao ap aq ar as at" href=3D"https:/=
+/lajavaness.medium.com/comparing-state-of-the-art-speaker-diarization-frame=
+works-pyannote-vs-nemo-31a191c6300" rel=3D"noopener follow"><div title=3D"C=
+omparing state-of-the-art speaker diarization frameworks&nbsp;: Pyannote vs=
+ Nemo"><h2 class=3D"be hc nn hx xh xi np nq ia xj xk ns op xl xm xn xo ot x=
+p xq xr xs ox xt xu xv xw jy ka kb kd kf bj">Comparing state-of-the-art spe=
+aker diarization frameworks&nbsp;: Pyannote vs Nemo</h2></div><div class=3D=
+"xx l"><h3 class=3D"be b ji z jy xy ka kb xz kd kf dt">This article focuses=
+ on two state-of-the-art open-source frameworks for speaker diarization: py=
+annote.audio and NeMo</h3></div></a></div><a class=3D"af ag ah ai aj ak al =
+am an ao ap aq ar as at" href=3D"https://lajavaness.medium.com/comparing-st=
+ate-of-the-art-speaker-diarization-frameworks-pyannote-vs-nemo-31a191c6300"=
+ rel=3D"noopener follow"><div class=3D"ab q">9 min read=C2=B7Jul 17</div></=
+a><div class=3D"ya yb yc yd ye l"><div class=3D"ab co"><div class=3D"am yf =
+yg yh yi yj yk yl ym yn yo ab q"><div class=3D"ab q lo"><div class=3D"pw-mu=
+lti-vote-icon fg gr lp lq lr"><a class=3D"af ag ah ai aj ak al am an ao ap =
+aq ar as at" href=3D"https://medium.com/m/signin?actionUrl=3Dhttps%3A%2F%2F=
+medium.com%2F_%2Fvote%2Fp%2F31a191c6300&amp;operation=3Dregister&amp;redire=
+ct=3Dhttps%3A%2F%2Flajavaness.medium.com%2Fcomparing-state-of-the-art-speak=
+er-diarization-frameworks-pyannote-vs-nemo-31a191c6300&amp;user=3DLa+Javane=
+ss+R%26D&amp;userId=3D3fb9e0369ece" rel=3D"noopener follow"><div><div class=
+=3D"bl" aria-hidden=3D"false"><div class=3D"ls ao lt lu lv lw am lx ly lz l=
+r"></div></div></div></a></div><div class=3D"pw-multi-vote-count l ma mb mc=
+ md me mf mg"><p class=3D"be b du z dt">--</p></div></div><div class=3D"yp =
+l"><div><div class=3D"bl" aria-hidden=3D"false"><a class=3D"af fh ah ls aj =
+ak al mk an ao ap aq ar as at mj ab q ml mm" aria-label=3D"responses" href=
+=3D"https://lajavaness.medium.com/comparing-state-of-the-art-speaker-diariz=
+ation-frameworks-pyannote-vs-nemo-31a191c6300?responsesOpen=3Dtrue&amp;sort=
+By=3DREVERSE_CHRON" rel=3D"noopener follow"><p class=3D"be b du z dt">2</p>=
+</a></div></div></div></div><div class=3D"ab q yq yr"><div><div class=3D"bl=
+" aria-hidden=3D"false"><a class=3D"af ag ah ai aj ak al am an ao ap aq ar =
+as at" href=3D"https://medium.com/m/signin?actionUrl=3Dhttps%3A%2F%2Fmedium=
+.com%2F_%2Fbookmark%2Fp%2F31a191c6300&amp;operation=3Dregister&amp;redirect=
+=3Dhttps%3A%2F%2Flajavaness.medium.com%2Fcomparing-state-of-the-art-speaker=
+-diarization-frameworks-pyannote-vs-nemo-31a191c6300" rel=3D"noopener follo=
+w"></a></div></div></div></div></div><div class=3D"j i d"><div class=3D"ti =
+bg tj yt"></div></div></div></div></div></div></div></div></div><div class=
+=3D"ur us ut uu uv uw ux uy uz va vb vc vd ve vf vg vh vi vj vk vl"><div cl=
+ass=3D"vm vn vo vp vq dv l"><div class=3D"dv gt l"><div class=3D"bg dv"><di=
+v class=3D"dv l"><div class=3D"dv vr vs vt vu vv vw vx vy vz wa wb wc wd"><=
+div class=3D"we"><a class=3D"af ag ah ai aj ak al am an ao ap aq ar as at" =
+aria-label=3D"Transcribing YouTube Videos using OpenAI=E2=80=99s Whisper=F0=
+=9F=93=BD=EF=B8=8F=F0=9F=97=A3=EF=B8=8F" href=3D"https://blog.devgenius.io/=
+transcribing-youtube-videos-using-openais-whisper-%EF%B8%8F-%EF%B8%8F-a29d2=
+64d6fb1" rel=3D"noopener follow"><div class=3D"wg wh wi wj wk">Transcribing=
+ YouTube Videos using OpenAI=E2=80=99s Whisper=F0=9F=93=BD=EF=B8=8F=F0=9F=
+=97=A3=EF=B8=8F</div></a></div><div class=3D"wf ab ca cn"><div class=3D"wp =
+wq wr ws wt ab"><div class=3D"gp l"><div><div class=3D"bl" aria-hidden=3D"f=
+alse"><a class=3D"af ag ah ai aj ak al am an ao ap aq ar as at" href=3D"htt=
+ps://devangtomar.medium.com/" rel=3D"noopener follow"><div class=3D"l fg">D=
+evang Tomar<div class=3D"fo bx l wu wv fp n ax fq"></div></div></a></div></=
+div></div><div class=3D"ww l"><div><div class=3D"bl" aria-hidden=3D"false">=
+<a class=3D"af ag ah ai aj ak al am an ao ap aq ar jk ab q" href=3D"https:/=
+/devangtomar.medium.com/" rel=3D"noopener follow"><p class=3D"be b du z jy =
+jz ka kb kc kd ke kf bj">Devang Tomar</p></a></div></div></div><div class=
+=3D"ww l"><p class=3D"be b du z dt">in</p></div><div class=3D"l"><div><div =
+class=3D"bl" aria-hidden=3D"false"><a class=3D"af ag ah ai aj ak al am an a=
+o ap aq ar jk ab q" href=3D"https://blog.devgenius.io/" rel=3D"noopener fol=
+low"><p class=3D"be b du z jy jz ka kb kc kd ke kf bj">Dev Genius</p></a></=
+div></div></div></div><div class=3D"wx wy wz xa xb xc xd xe xf xg l gu"><a =
+class=3D"af ag ah ai aj ak al am an ao ap aq ar as at" href=3D"https://blog=
+.devgenius.io/transcribing-youtube-videos-using-openais-whisper-%EF%B8%8F-%=
+EF%B8%8F-a29d264d6fb1" rel=3D"noopener follow"><div title=3D""><h2 class=3D=
+"be hc nn hx xh xi np nq ia xj xk ns op xl xm xn xo ot xp xq xr xs ox xt xu=
+ xv xw jy ka kb kd kf bj">Transcribing YouTube Videos using OpenAI=E2=80=99=
+s Whisper=F0=9F=93=BD=EF=B8=8F=F0=9F=97=A3=EF=B8=8F</h2></div></a></div><a =
+class=3D"af ag ah ai aj ak al am an ao ap aq ar as at" href=3D"https://blog=
+.devgenius.io/transcribing-youtube-videos-using-openais-whisper-%EF%B8%8F-%=
+EF%B8%8F-a29d264d6fb1" rel=3D"noopener follow"><div class=3D"ab q">8 min re=
+ad=C2=B7May 19</div></a><div class=3D"ya yb yc yd ye l"><div class=3D"ab co=
+"><div class=3D"am yf yg yh yi yj yk yl ym yn yo ab q"><div class=3D"ab q l=
+o"><div class=3D"pw-multi-vote-icon fg gr lp lq lr"><a class=3D"af ag ah ai=
+ aj ak al am an ao ap aq ar as at" href=3D"https://medium.com/m/signin?acti=
+onUrl=3Dhttps%3A%2F%2Fmedium.com%2F_%2Fvote%2Fdev-genius%2Fa29d264d6fb1&amp=
+;operation=3Dregister&amp;redirect=3Dhttps%3A%2F%2Fblog.devgenius.io%2Ftran=
+scribing-youtube-videos-using-openais-whisper-%25EF%25B8%258F-%25EF%25B8%25=
+8F-a29d264d6fb1&amp;user=3DDevang+Tomar&amp;userId=3D8f5e1c86129d" rel=3D"n=
+oopener follow"><div><div class=3D"bl" aria-hidden=3D"false"><div class=3D"=
+ls ao lt lu lv lw am lx ly lz lr"></div></div></div></a></div><div class=3D=
+"pw-multi-vote-count l ma mb mc md me mf mg"><p class=3D"be b du z dt">--</=
+p></div></div><div class=3D"yp l"><div><div class=3D"bl" aria-hidden=3D"fal=
+se"><a class=3D"af fh ah ls aj ak al mk an ao ap aq ar as at mj ab q ml mm"=
+ aria-label=3D"responses" href=3D"https://blog.devgenius.io/transcribing-yo=
+utube-videos-using-openais-whisper-%EF%B8%8F-%EF%B8%8F-a29d264d6fb1?respons=
+esOpen=3Dtrue&amp;sortBy=3DREVERSE_CHRON" rel=3D"noopener follow"><p class=
+=3D"be b du z dt">1</p></a></div></div></div></div><div class=3D"ab q yq yr=
+"><div><div class=3D"bl" aria-hidden=3D"false"><a class=3D"af ag ah ai aj a=
+k al am an ao ap aq ar as at" href=3D"https://medium.com/m/signin?actionUrl=
+=3Dhttps%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa29d264d6fb1&amp;operation=
+=3Dregister&amp;redirect=3Dhttps%3A%2F%2Fblog.devgenius.io%2Ftranscribing-y=
+outube-videos-using-openais-whisper-%25EF%25B8%258F-%25EF%25B8%258F-a29d264=
+d6fb1" rel=3D"noopener follow"></a></div></div></div></div></div><div class=
+=3D"j i d"><div class=3D"ti bg tj yt"></div></div></div></div></div></div><=
+/div></div></div><div class=3D"ur us ut uu uv uw ux uy uz va vb vc vd ve vf=
+ vg vh vi vj vk vl"><div class=3D"vm vn vo vp vq dv l"><div class=3D"dv gt =
+l"><div class=3D"bg dv"><div class=3D"dv l"><div class=3D"dv vr vs vt vu vv=
+ vw vx vy vz wa wb wc wd"><div class=3D"we"><a class=3D"af ag ah ai aj ak a=
+l am an ao ap aq ar as at" aria-label=3D"Whisper JAX: The Fastest Implement=
+ation of OpenAI=E2=80=99s Whisper ASR Model" href=3D"https://medium.com/pro=
+mpt-engineering/whisper-jax-the-fastest-implementation-of-openais-whisper-a=
+sr-model-3ea22bc92f51" rel=3D"noopener follow"><div class=3D"wg wh wi wj wk=
+">Whisper JAX: The Fastest Implementation of OpenAI=E2=80=99s Whisper ASR M=
+odel</div></a></div><div class=3D"wf ab ca cn"><div class=3D"wp wq wr ws wt=
+ ab"><div class=3D"gp l"><div><div class=3D"bl" aria-hidden=3D"false"><a cl=
+ass=3D"af ag ah ai aj ak al am an ao ap aq ar as at" href=3D"https://medium=
+.com/@mcraddock" rel=3D"noopener follow"><div class=3D"l fg">Mark Craddock<=
+div class=3D"fo bx l wu wv fp n ax fq"></div></div></a></div></div></div><d=
+iv class=3D"ww l"><div><div class=3D"bl" aria-hidden=3D"false"><a class=3D"=
+af ag ah ai aj ak al am an ao ap aq ar jk ab q" href=3D"https://medium.com/=
+@mcraddock" rel=3D"noopener follow"><p class=3D"be b du z jy jz ka kb kc kd=
+ ke kf bj">Mark Craddock</p></a></div></div></div><div class=3D"ww l"><p cl=
+ass=3D"be b du z dt">in</p></div><div class=3D"l"><div><div class=3D"bl" ar=
+ia-hidden=3D"false"><a class=3D"af ag ah ai aj ak al am an ao ap aq ar jk a=
+b q" href=3D"https://medium.com/prompt-engineering" rel=3D"noopener follow"=
+><p class=3D"be b du z jy jz ka kb kc kd ke kf bj">Prompt Engineering</p></=
+a></div></div></div></div><div class=3D"wx wy wz xa xb xc xd xe xf xg l gu"=
+><a class=3D"af ag ah ai aj ak al am an ao ap aq ar as at" href=3D"https://=
+medium.com/prompt-engineering/whisper-jax-the-fastest-implementation-of-ope=
+nais-whisper-asr-model-3ea22bc92f51" rel=3D"noopener follow"><div title=3D"=
+"><h2 class=3D"be hc nn hx xh xi np nq ia xj xk ns op xl xm xn xo ot xp xq =
+xr xs ox xt xu xv xw jy ka kb kd kf bj">Whisper JAX: The Fastest Implementa=
+tion of OpenAI=E2=80=99s Whisper ASR Model</h2></div><div class=3D"xx l"><h=
+3 class=3D"be b ji z jy xy ka kb xz kd kf dt">This is the fastest available=
+ Whisper implementation, with over 70x faster performance than OpenAI=E2=80=
+=99s PyTorch code</h3></div></a></div><a class=3D"af ag ah ai aj ak al am a=
+n ao ap aq ar as at" href=3D"https://medium.com/prompt-engineering/whisper-=
+jax-the-fastest-implementation-of-openais-whisper-asr-model-3ea22bc92f51" r=
+el=3D"noopener follow"><div class=3D"ab q">6 min read=C2=B7May 24</div></a>=
+<div class=3D"ya yb yc yd ye l"><div class=3D"ab co"><div class=3D"am yf yg=
+ yh yi yj yk yl ym yn yo ab q"><div class=3D"ab q lo"><div class=3D"pw-mult=
+i-vote-icon fg gr lp lq lr"><a class=3D"af ag ah ai aj ak al am an ao ap aq=
+ ar as at" href=3D"https://medium.com/m/signin?actionUrl=3Dhttps%3A%2F%2Fme=
+dium.com%2F_%2Fvote%2Fprompt-engineering%2F3ea22bc92f51&amp;operation=3Dreg=
+ister&amp;redirect=3Dhttps%3A%2F%2Fmedium.com%2Fprompt-engineering%2Fwhispe=
+r-jax-the-fastest-implementation-of-openais-whisper-asr-model-3ea22bc92f51&=
+amp;user=3DMark+Craddock&amp;userId=3D1ca79a11bc85" rel=3D"noopener follow"=
+><div><div class=3D"bl" aria-hidden=3D"false"><div class=3D"ls ao lt lu lv =
+lw am lx ly lz lr"></div></div></div></a></div><div class=3D"pw-multi-vote-=
+count l ma mb mc md me mf mg"><p class=3D"be b du z dt">--</p></div></div><=
+div class=3D"yp l"><div><div class=3D"bl" aria-hidden=3D"false"><a class=3D=
+"af fh ah ls aj ak al mk an ao ap aq ar as at mj ab q ml mm" aria-label=3D"=
+responses" href=3D"https://medium.com/prompt-engineering/whisper-jax-the-fa=
+stest-implementation-of-openais-whisper-asr-model-3ea22bc92f51?responsesOpe=
+n=3Dtrue&amp;sortBy=3DREVERSE_CHRON" rel=3D"noopener follow"></a></div></di=
+v></div></div><div class=3D"ab q yq yr"><div><div class=3D"bl" aria-hidden=
+=3D"false"><a class=3D"af ag ah ai aj ak al am an ao ap aq ar as at" href=
+=3D"https://medium.com/m/signin?actionUrl=3Dhttps%3A%2F%2Fmedium.com%2F_%2F=
+bookmark%2Fp%2F3ea22bc92f51&amp;operation=3Dregister&amp;redirect=3Dhttps%3=
+A%2F%2Fmedium.com%2Fprompt-engineering%2Fwhisper-jax-the-fastest-implementa=
+tion-of-openais-whisper-asr-model-3ea22bc92f51" rel=3D"noopener follow"></a=
+></div></div></div></div></div><div class=3D"j i d"><div class=3D"ti bg tj =
+yt"></div></div></div></div></div></div></div></div></div><div class=3D"ur =
+us ut uu uv uw ux uy uz va vb vc vd ve vf vg vh vi vj vk vl"><div class=3D"=
+vm vn vo vp vq dv l"><div class=3D"dv gt l"><div class=3D"bg dv"><div class=
+=3D"dv l"><div class=3D"dv vr vs vt vu vv vw vx vy vz wa wb wc wd"><div cla=
+ss=3D"we"><a class=3D"af ag ah ai aj ak al am an ao ap aq ar as at" aria-la=
+bel=3D"Hyper-Realistic Text-to-Speech: Comparing Tortoise and Bark for Voic=
+e Synthesis" href=3D"https://ai.plainenglish.io/hyper-realistic-text-to-spe=
+ech-comparing-tortoise-and-bark-for-voice-synthesis-c974ef101096" rel=3D"no=
+opener follow"><div class=3D"wg wh wi wj wk">Hyper-Realistic Text-to-Speech=
+: Comparing Tortoise and Bark for Voice Synthesis</div></a></div><div class=
+=3D"wf ab ca cn"><div class=3D"wp wq wr ws wt ab"><div class=3D"gp l"><div>=
+<div class=3D"bl" aria-hidden=3D"false"><a class=3D"af ag ah ai aj ak al am=
+ an ao ap aq ar as at" href=3D"https://medium.com/@mikeyoung_97230" rel=3D"=
+noopener follow"><div class=3D"l fg">Mike Young<div class=3D"fo bx l wu wv =
+fp n ax fq"></div></div></a></div></div></div><div class=3D"ww l"><div><div=
+ class=3D"bl" aria-hidden=3D"false"><a class=3D"af ag ah ai aj ak al am an =
+ao ap aq ar jk ab q" href=3D"https://medium.com/@mikeyoung_97230" rel=3D"no=
+opener follow"><p class=3D"be b du z jy jz ka kb kc kd ke kf bj">Mike Young=
+</p></a></div></div></div><div class=3D"ww l"><p class=3D"be b du z dt">in<=
+/p></div><div class=3D"l"><div><div class=3D"bl" aria-hidden=3D"false"><a c=
+lass=3D"af ag ah ai aj ak al am an ao ap aq ar jk ab q" href=3D"https://ai.=
+plainenglish.io/" rel=3D"noopener follow"><p class=3D"be b du z jy jz ka kb=
+ kc kd ke kf bj">Artificial Intelligence in Plain English</p></a></div></di=
+v></div></div><div class=3D"wx wy wz xa xb xc xd xe xf xg l gu"><a class=3D=
+"af ag ah ai aj ak al am an ao ap aq ar as at" href=3D"https://ai.plainengl=
+ish.io/hyper-realistic-text-to-speech-comparing-tortoise-and-bark-for-voice=
+-synthesis-c974ef101096" rel=3D"noopener follow"><div title=3D"Hyper-Realis=
+tic Text-to-Speech: Comparing Tortoise and Bark for Voice Synthesis"><h2 cl=
+ass=3D"be hc nn hx xh xi np nq ia xj xk ns op xl xm xn xo ot xp xq xr xs ox=
+ xt xu xv xw jy ka kb kd kf bj">Hyper-Realistic Text-to-Speech: Comparing T=
+ortoise and Bark for Voice Synthesis</h2></div><div class=3D"xx l"><h3 clas=
+s=3D"be b ji z jy xy ka kb xz kd kf dt">If you=E2=80=99re creating voice-en=
+abled products, this guide will help you choose between AI models Bark and =
+Tortoise TTS.</h3></div></a></div><a class=3D"af ag ah ai aj ak al am an ao=
+ ap aq ar as at" href=3D"https://ai.plainenglish.io/hyper-realistic-text-to=
+-speech-comparing-tortoise-and-bark-for-voice-synthesis-c974ef101096" rel=
+=3D"noopener follow"><div class=3D"ab q">13 min read=C2=B7Aug 9</div></a><d=
+iv class=3D"ya yb yc yd ye l"><div class=3D"ab co"><div class=3D"am yf yg y=
+h yi yj yk yl ym yn yo ab q"><div class=3D"ab q lo"><div class=3D"pw-multi-=
+vote-icon fg gr lp lq lr"><a class=3D"af ag ah ai aj ak al am an ao ap aq a=
+r as at" href=3D"https://medium.com/m/signin?actionUrl=3Dhttps%3A%2F%2Fmedi=
+um.com%2F_%2Fvote%2Fai-in-plain-english%2Fc974ef101096&amp;operation=3Dregi=
+ster&amp;redirect=3Dhttps%3A%2F%2Fai.plainenglish.io%2Fhyper-realistic-text=
+-to-speech-comparing-tortoise-and-bark-for-voice-synthesis-c974ef101096&amp=
+;user=3DMike+Young&amp;userId=3D27f15ce3dfb8" rel=3D"noopener follow"><div>=
+<div class=3D"bl" aria-hidden=3D"false"><div class=3D"ls ao lt lu lv lw am =
+lx ly lz lr"></div></div></div></a></div><div class=3D"pw-multi-vote-count =
+l ma mb mc md me mf mg"><p class=3D"be b du z dt">--</p></div></div><div cl=
+ass=3D"yp l"><div><div class=3D"bl" aria-hidden=3D"false"><a class=3D"af fh=
+ ah ls aj ak al mk an ao ap aq ar as at mj ab q ml mm" aria-label=3D"respon=
+ses" href=3D"https://ai.plainenglish.io/hyper-realistic-text-to-speech-comp=
+aring-tortoise-and-bark-for-voice-synthesis-c974ef101096?responsesOpen=3Dtr=
+ue&amp;sortBy=3DREVERSE_CHRON" rel=3D"noopener follow"></a></div></div></di=
+v></div><div class=3D"ab q yq yr"><div><div class=3D"bl" aria-hidden=3D"fal=
+se"><a class=3D"af ag ah ai aj ak al am an ao ap aq ar as at" href=3D"https=
+://medium.com/m/signin?actionUrl=3Dhttps%3A%2F%2Fmedium.com%2F_%2Fbookmark%=
+2Fp%2Fc974ef101096&amp;operation=3Dregister&amp;redirect=3Dhttps%3A%2F%2Fai=
+.plainenglish.io%2Fhyper-realistic-text-to-speech-comparing-tortoise-and-ba=
+rk-for-voice-synthesis-c974ef101096" rel=3D"noopener follow"></a></div></di=
+v></div></div></div></div></div></div></div></div></div></div></div><div cl=
+ass=3D"ti bg tj dj dk yw yx yy"></div><a class=3D"be b bf z bj ri zc zd ze =
+ys ml zf es et eu zg zh zi ex zj zk zl zm zn ey ez fa bl fb fc" href=3D"htt=
+ps://medium.com/" rel=3D"noopener follow"><div class=3D"l fc">See more reco=
+mmendations</div></a></div></div></div><div class=3D"h k j"><div class=3D"t=
+i bg tj tp"></div><div class=3D"ab ca"><div class=3D"ch bg fw fx fy fz"><di=
+v class=3D"tq ab lo ju"><div class=3D"tr ts l"><a class=3D"af ag ah ai aj a=
+k al am an ao ap aq ar as at" href=3D"https://help.medium.com/hc/en-us" rel=
+=3D"noopener follow"><p class=3D"be b du z dt">Help</p></a></div><div class=
+=3D"tr ts l"><a class=3D"af ag ah ai aj ak al am an ao ap aq ar as at" href=
+=3D"https://medium.statuspage.io/" rel=3D"noopener follow"><p class=3D"be b=
+ du z dt">Status</p></a></div><div class=3D"tr ts l"><a class=3D"af ag ah a=
+i aj ak al am an ao ap aq ar as at" href=3D"https://medium.com/about?autopl=
+ay=3D1" rel=3D"noopener follow"><p class=3D"be b du z dt">About</p></a></di=
+v><div class=3D"tr ts l"><a class=3D"af ag ah ai aj ak al am an ao ap aq ar=
+ as at" href=3D"https://medium.com/jobs-at-medium/work-at-medium-959d1a8528=
+4e" rel=3D"noopener follow"><p class=3D"be b du z dt">Careers</p></a></div>=
+<div class=3D"tr ts l"><a class=3D"af ag ah ai aj ak al am an ao ap aq ar a=
+s at" href=3D"https://blog.medium.com/" rel=3D"noopener follow"><p class=3D=
+"be b du z dt">Blog</p></a></div><div class=3D"tr ts l"><a class=3D"af ag a=
+h ai aj ak al am an ao ap aq ar as at" href=3D"https://policy.medium.com/me=
+dium-privacy-policy-f03bf92035c9" rel=3D"noopener follow"><p class=3D"be b =
+du z dt">Privacy</p></a></div><div class=3D"tr ts l"><a class=3D"af ag ah a=
+i aj ak al am an ao ap aq ar as at" href=3D"https://policy.medium.com/mediu=
+m-terms-of-service-9db0094a1e0f" rel=3D"noopener follow"><p class=3D"be b d=
+u z dt">Terms</p></a></div><div class=3D"tr ts l"><a class=3D"af ag ah ai a=
+j ak al am an ao ap aq ar as at" href=3D"https://speechify.com/medium" rel=
+=3D"noopener follow"><p class=3D"be b du z dt">Text to speech</p></a></div>=
+<div class=3D"tr l"><a class=3D"af ag ah ai aj ak al am an ao ap aq ar as a=
+t" href=3D"https://medium.com/business" rel=3D"noopener follow"><p class=3D=
+"be b du z dt">Teams</p></a></div></div></div></div></div></div></div></div=
+></div></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></body><grammarly-desktop-integration data-grammarly-shadow-root=3D"t=
+rue"><template shadowmode=3D"open"><div aria-label=3D"grammarly-integration=
+" role=3D"group" tabindex=3D"-1" class=3D"grammarly-desktop-integration" da=
+ta-content=3D"{&quot;mode&quot;:&quot;full&quot;,&quot;isActive&quot;:true,=
+&quot;isUserDisabled&quot;:false}"></div></template></grammarly-desktop-int=
+egration></html>
+------MultipartBoundary--p8a8tiA2Rx9kZeSeJh8hI6ANHFB16wuX0Dl9WDJblq----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-956f1b35-abb3-4776-8da4-b2682899182e@mhtml.blink
+
+@charset "utf-8";
+
+body { margin-left: 0px; margin-right: 0px; margin-top: 0px; }
+
+#bN015htcoyT__google-cache-hdr { background: rgb(248, 249, 250); font: 13px=
+ / 16px arial, sans-serif; text-align: left; color: var(--rtJVP); border-to=
+p: 0px; border-right: 0px; border-left: 0px; border-image: initial; margin:=
+ 0px; border-bottom: 1px solid var(--cN2Old); padding: 16px 28px 24px; }
+
+#bN015htcoyT__google-cache-hdr * { display: inline; font: inherit; text-ali=
+gn: inherit; color: inherit; background: none; border: 0px; margin: 0px; pa=
+dding: 0px; letter-spacing: 0px; }
+
+#bN015htcoyT__google-cache-hdr a { text-decoration: none; color: var(--F62l=
+I); }
+
+#bN015htcoyT__google-cache-hdr a:hover { text-decoration: underline; }
+
+#bN015htcoyT__google-cache-hdr a:visited { color: rgb(104, 29, 168); }
+
+#bN015htcoyT__google-cache-hdr div { display: block; margin-top: 4px; }
+
+#bN015htcoyT__google-cache-hdr b { font-weight: bold; display: inline-block=
+; direction: ltr; }
+------MultipartBoundary--p8a8tiA2Rx9kZeSeJh8hI6ANHFB16wuX0Dl9WDJblq------
