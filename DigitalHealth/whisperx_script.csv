@@ -1,0 +1,40 @@
+Start,End,Text,Speaker
+3.066,3.346, Come in.,SPEAKER_01
+5.388,5.828,Miss X?,SPEAKER_01
+6.068,6.348,Yeah.,SPEAKER_01
+7.689,8.89,Yeah.,SPEAKER_01
+9.15,10.591,"Okay, so why are you here today?",SPEAKER_01
+11.312,14.594,"Oh, I have constant cough and I felt out of breath.",SPEAKER_00
+15.775,18.076,"Okay, is it dry cough or with mucus?",SPEAKER_01
+19.057,22.039,It's mainly dry cough but some mornings there's mucus.,SPEAKER_00
+22.699,24.28,"Okay, and the sharpness of breath?",SPEAKER_01
+25.501,27.723,"It's, you know, mainly when I exert myself.",SPEAKER_00
+29.164,31.085,"Okay, any previous health conditions?",SPEAKER_00
+31.792,35.475," high blood pressure, but it's, you know, it's already controlled through the diet.",SPEAKER_00
+35.995,36.376,Okay.,SPEAKER_00
+36.836,37.657,Any medications?,SPEAKER_00
+37.897,38.117,No.,SPEAKER_00
+38.938,39.358,Okay.,SPEAKER_00
+44.102,44.402,Yes?,SPEAKER_01
+46.784,50.327,Dr. Krieger's lab results are in for another patient.,SPEAKER_01
+52.228,52.589,Okay.,SPEAKER_01
+52.889,53.71,I'll check that soon.,SPEAKER_01
+53.75,54.27,Thank you.,SPEAKER_01
+54.29,58.654,Sorry for the interruption.,SPEAKER_01
+58.674,59.414,It's okay.,SPEAKER_01
+60.355,60.595,Okay.,SPEAKER_01
+62.028,63.088, Do you have any allergies?,SPEAKER_01
+63.328,64.549,"Yeah, yeah, the shellfish.",SPEAKER_00
+65.109,65.489,Okay.,SPEAKER_00
+65.829,66.749,Family health conditions?,SPEAKER_00
+67.529,69.79,"My mom, she had migraines in her twenties.",SPEAKER_00
+70.59,73.011,"My dad, he has a high blood pressure.",SPEAKER_00
+73.031,74.491,Okay.,SPEAKER_01
+76.292,78.032,Do you have any recent exposure to travel?,SPEAKER_01
+78.052,81.053,"Yeah, I attended a large wedding two weeks ago.",SPEAKER_00
+81.073,82.093,Okay.,SPEAKER_01
+82.413,83.053,Do you smoke?,SPEAKER_01
+83.473,85.434,"Yeah, half a pack of cigarettes daily.",SPEAKER_00
+86.814,87.714,Any alcohol use?,SPEAKER_00
+87.934,88.915,"No, no, I don't drink.",SPEAKER_00
+92.992,107.143, yep sorry for that no it's okay okay yeah so based on what you said i would like to proceed with some testing after that please rest and stay hydrated okay sounds good thank you doctor thank you,SPEAKER_01
